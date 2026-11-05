@@ -27,6 +27,33 @@
  },
  {
   "score": 2,
+  "name": "Delighted Champs",
+  "website": "https://delightedchamps.com/",
+  "category": "Abacus & Vedic Maths",
+  "city": "Kochi",
+  "state": "",
+  "country": "India",
+  "emails": [
+   "info@delightedchamps.com"
+  ],
+  "phones": [
+   "+91 79877 64868",
+   "+817013482211",
+   "+971524884772"
+  ],
+  "whatsapp": "",
+  "instagram": "https://www.instagram.com/delightedchamps/",
+  "facebook": "https://www.facebook.com/Delightedchamps/",
+  "linkedin": "https://www.linkedin.com/company/delightedchamps",
+  "platform": "WordPress",
+  "issues": "Hero area completely empty white; tiny logo; scrolling top ticker",
+  "pitch": "Fill the empty homepage with a vibrant kids-learning hero and clear CTA",
+  "screenshot": "shots/delightedchamps.com.jpg",
+  "status": "New",
+  "notes": ""
+ },
+ {
+  "score": 2,
   "name": "Maths-n-Abacus",
   "website": "https://maths-n-abacus.co.in/",
   "category": "Abacus & Vedic Maths",
@@ -47,6 +74,29 @@
   "issues": "Broken: 'couldn't load plugin', raw shortcode text, Times font, cramped green sidebar nav.",
   "pitch": "Complete rebuild of a broken early-2000s style abacus site.",
   "screenshot": "shots/maths-n-abacus.co.in.jpg",
+  "status": "New",
+  "notes": ""
+ },
+ {
+  "score": 2,
+  "name": "Vedic Maths Forum India",
+  "website": "https://vedicmathsindia.org/",
+  "category": "Abacus & Vedic Maths",
+  "city": "Kochi",
+  "state": "",
+  "country": "India",
+  "emails": [],
+  "phones": [
+   "+91 98305 32264"
+  ],
+  "whatsapp": "",
+  "instagram": "https://instagram.com/vedicmathsindia?igshid=NDk5N2NlZjQ=",
+  "facebook": "https://www.facebook.com/VedicMathsIndia?mibextid=ZbWKwL",
+  "linkedin": "https://www.linkedin.com/company/vedic-maths-forum-india/",
+  "platform": "WordPress",
+  "issues": "Broken images showing alt text; social icons overlap headline; misaligned layout",
+  "pitch": "Fix broken layout with a polished, modern Vedic Maths course site",
+  "screenshot": "shots/vedicmathsindia.org.jpg",
   "status": "New",
   "notes": ""
  },
@@ -205,6 +255,54 @@
  },
  {
   "score": 2,
+  "name": "Sri Kalakshi School of Dance",
+  "website": "https://srikalakshi.weebly.com/",
+  "category": "Dance Academy",
+  "city": "Chennai",
+  "state": "",
+  "country": "India",
+  "emails": [
+   "danceatkalakshi@gmail.com"
+  ],
+  "phones": [],
+  "whatsapp": "",
+  "instagram": "https://www.instagram.com/ranjana_srikalakshi?igsh=MXA4eDNmMDQwd2I3ZQ==",
+  "facebook": "https://www.facebook.com/SriKalakshiSchoolOfDance",
+  "linkedin": "",
+  "platform": "Weebly",
+  "issues": "Default Weebly template; peach background; tiny text columns; no hero or CTA.",
+  "pitch": "Move to a custom domain with an elegant, performance-led dance school site.",
+  "screenshot": "shots/srikalakshi.weebly.com.jpg",
+  "status": "New",
+  "notes": ""
+ },
+ {
+  "score": 2,
+  "name": "Steps Dance Studio",
+  "website": "https://stepsdanz.com/",
+  "category": "Dance Academy",
+  "city": "Hyderabad",
+  "state": "",
+  "country": "India",
+  "emails": [
+   "info@stepsdanz.com"
+  ],
+  "phones": [
+   "+91 92462 71230"
+  ],
+  "whatsapp": "https://wa.me/+919246271230",
+  "instagram": "https://www.instagram.com/stepsdancestudiohyd?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+  "facebook": "https://www.facebook.com/stepsdanz",
+  "linkedin": "",
+  "platform": "WordPress",
+  "issues": "Stylesheet not loading: raw unstyled bullet menu and serif text; broken logo image; signup popup overlays everything",
+  "pitch": "Site is rendering as broken raw HTML—rebuild with a reliable, modern dance-studio design",
+  "screenshot": "shots/stepsdanz.com.jpg",
+  "status": "New",
+  "notes": ""
+ },
+ {
+  "score": 2,
   "name": "Adi Group of Institutions",
   "website": "https://adiinstitute.co.in/",
   "category": "Digital Skills Training",
@@ -225,6 +323,32 @@
   "issues": "Giant logo image fills entire viewport, no navigation, headline or CTA visible above the fold.",
   "pitch": "Replace a full-screen logo splash with a real homepage showcasing 15+ courses and enquiry CTA.",
   "screenshot": "shots/adiinstitute.co.in.jpg",
+  "status": "New",
+  "notes": ""
+ },
+ {
+  "score": 2,
+  "name": "ArtShala",
+  "website": "https://www.artshala.biz/",
+  "category": "Digital Skills Training",
+  "city": "Rajkot",
+  "state": "",
+  "country": "India",
+  "emails": [
+   "artshalarjt@gmail.com"
+  ],
+  "phones": [
+   "+91 97277 68177",
+   "+91 77779 70177"
+  ],
+  "whatsapp": "https://wa.me/message/XDJ4D64PWK54L1",
+  "instagram": "https://www.instagram.com/artshalagraphicinstitute/",
+  "facebook": "https://www.facebook.com/profile.php?id=100092503596835&mibextid=ZbWKwL",
+  "linkedin": "https://in.linkedin.com/in/artshala-graphic-design-institute-2617162b4?original_referer=https%3A%2F%2Fwww.google.com%2F",
+  "platform": "WordPress",
+  "issues": "Broken: unstyled about text wall, broken image placeholder, invisible button; no hero",
+  "pitch": "A design institute needs a showcase site—rebuild with student work up front",
+  "screenshot": "shots/artshala.biz.jpg",
   "status": "New",
   "notes": ""
  },
@@ -305,6 +429,33 @@
   "issues": "Styling failed: mega-menu panels dump onto page, bullet-list nav, broken images, no hero or CTA at all.",
   "pitch": "Rebuild a homepage that currently renders as a broken menu dump into a clean, converting landing page.",
   "screenshot": "shots/inidl.in.jpg",
+  "status": "New",
+  "notes": ""
+ },
+ {
+  "score": 2,
+  "name": "OneCode Digital Academy",
+  "website": "https://onecodedigital.in/",
+  "category": "Digital Skills Training",
+  "city": "Kochi",
+  "state": "",
+  "country": "India",
+  "emails": [
+   "info@onecodedigital.in"
+  ],
+  "phones": [
+   "+91 90728 48555",
+   "+91 90728 47555",
+   "+91 97467 25559"
+  ],
+  "whatsapp": "https://api.whatsapp.com/send?phone=919072848555&text=Hello,%20I%20would%20like%20to%20know%20more%20about%20your%20courses.",
+  "instagram": "",
+  "facebook": "https://www.facebook.com/profile.php?id=61554772564197",
+  "linkedin": "",
+  "platform": "WordPress",
+  "issues": "Styles broken: default fonts, broken hero image, grey wall of SEO text",
+  "pitch": "Rebuild the broken homepage with a modern, placement-focused digital academy design",
+  "screenshot": "shots/onecodedigital.in.jpg",
   "status": "New",
   "notes": ""
  },
@@ -590,6 +741,61 @@
  },
  {
   "score": 2,
+  "name": "BK Immigration",
+  "website": "https://bkimmigration.co/",
+  "category": "IELTS/PTE Coaching",
+  "city": "Vadodara",
+  "state": "",
+  "country": "India",
+  "emails": [
+   "info@bkimmigration.co"
+  ],
+  "phones": [
+   "+91 90902 01820",
+   "+91 95584 75552"
+  ],
+  "whatsapp": "https://wa.me/919090201820",
+  "instagram": "https://www.instagram.com/bkimmigration?igsh=MW1wbDRhdDRnY3RmYg==",
+  "facebook": "",
+  "linkedin": "",
+  "platform": "WordPress",
+  "issues": "Broken layout: huge blank area, nav floating mid-page, no logo or hero",
+  "pitch": "Fix a broken homepage with a modern, conversion-focused study-abroad design",
+  "screenshot": "shots/bkimmigration.co.jpg",
+  "status": "New",
+  "notes": ""
+ },
+ {
+  "score": 2,
+  "name": "Elite Overseas Education",
+  "website": "https://eliteoverseaseducation.com/",
+  "category": "IELTS/PTE Coaching",
+  "city": "Surat",
+  "state": "",
+  "country": "India",
+  "emails": [
+   "eliteoverseasappointment@gmail.com",
+   "info@eliteoverseaseducation.com",
+   "adajan@eliteoverseaseducation.com"
+  ],
+  "phones": [
+   "+91 90816 63334",
+   "+447307997063",
+   "+16479399785"
+  ],
+  "whatsapp": "https://wa.me/917984757116?text=Hello%20Elite%20Overseas%2C%20I%27d%20like%20to%20know%20more%20about%20studying%20abroad.%20Please%20guide%20me.",
+  "instagram": "https://www.instagram.com/eliteoverseasofficial/",
+  "facebook": "https://www.facebook.com/Eliteoverseasoffical/",
+  "linkedin": "https://www.linkedin.com/company/elite-overseas-education-consultant/",
+  "platform": "WordPress",
+  "issues": "Broken layout: unstyled dropdown menu dumped as long text list; no hero or imagery",
+  "pitch": "Your menu is spilling across the page—rebuild with a polished study-abroad site",
+  "screenshot": "shots/eliteoverseaseducation.com.jpg",
+  "status": "New",
+  "notes": ""
+ },
+ {
+  "score": 2,
   "name": "English Springs",
   "website": "https://englishsprings.com/",
   "category": "IELTS/PTE Coaching",
@@ -641,7 +847,60 @@
  },
  {
   "score": 2,
-  "name": "Best Coaching of INDORE For JEE & NEET",
+  "name": "Jagvimal Consultants",
+  "website": "https://www.jagvimal.com/",
+  "category": "IELTS/PTE Coaching",
+  "city": "Jaipur",
+  "state": "",
+  "country": "India",
+  "emails": [
+   "info@jagvimal.com"
+  ],
+  "phones": [
+   "+91 97723 78888",
+   "+91 98879 77888"
+  ],
+  "whatsapp": "https://wa.me/919772378888",
+  "instagram": "https://www.instagram.com/jagvimal_consultants/",
+  "facebook": "https://www.facebook.com/vedprakashbeniwalofficial/",
+  "linkedin": "https://in.linkedin.com/company/jagvimal-consultants-management-services-pvt-ltd",
+  "platform": "",
+  "issues": "Broken layout: missing images showing alt text, empty hero, scattered buttons and floating card",
+  "pitch": "Fix a visibly broken homepage with a clean, trustworthy study-abroad design",
+  "screenshot": "shots/jagvimal.com.jpg",
+  "status": "New",
+  "notes": ""
+ },
+ {
+  "score": 2,
+  "name": "Milwaukee Academy",
+  "website": "https://milwaukeeacademy.org/",
+  "category": "IELTS/PTE Coaching",
+  "city": "Kothamangalam",
+  "state": "",
+  "country": "India",
+  "emails": [
+   "info@milwaukeeacademy.org"
+  ],
+  "phones": [
+   "+91 4852826900",
+   "+91 93882 92888",
+   "+91 93887 92888"
+  ],
+  "whatsapp": "",
+  "instagram": "https://www.instagram.com/17841428062287478/",
+  "facebook": "https://www.facebook.com/MilwaukeeAcademy",
+  "linkedin": "",
+  "platform": "WordPress",
+  "issues": "CSS failed: unstyled duplicated bullet menus, broken logo image, raw search form",
+  "pitch": "Site renders as broken raw HTML—rebuild with a modern IELTS/OET academy design",
+  "screenshot": "shots/milwaukeeacademy.org.jpg",
+  "status": "New",
+  "notes": "copyright 2023"
+ },
+ {
+  "score": 2,
+  "name": "IIT Pulse",
   "website": "https://www.iitpulse.com/",
   "category": "JEE/NEET Coaching",
   "city": "Indore",
@@ -667,7 +926,7 @@
  },
  {
   "score": 2,
-  "name": "Best IIT-JEE & NEET Coaching in Indore",
+  "name": "Ramanujan Academy",
   "website": "https://www.ramanujanacademy.org/",
   "category": "JEE/NEET Coaching",
   "city": "Indore",
@@ -770,6 +1029,78 @@
  },
  {
   "score": 2,
+  "name": "Callistyle",
+  "website": "https://callistyle.in/",
+  "category": "Phonics & Handwriting",
+  "city": "Online",
+  "state": "",
+  "country": "India",
+  "emails": [
+   "callistyle26@gmail.com",
+   "info@callistyle.in"
+  ],
+  "phones": [
+   "+91 89460 17752"
+  ],
+  "whatsapp": "http://wa.me/+918946017752",
+  "instagram": "https://www.instagram.com/callistyle26/",
+  "facebook": "https://www.facebook.com/Callistyle-123137739480519/",
+  "linkedin": "https://in.linkedin.com/company/callistyle",
+  "platform": "WordPress",
+  "issues": "Broken layout: blank page, nav links stacked in tiny text, no hero or content above fold.",
+  "pitch": "Rebuild a broken homepage into a polished multi-course learning brand.",
+  "screenshot": "shots/callistyle.in.jpg",
+  "status": "New",
+  "notes": ""
+ },
+ {
+  "score": 2,
+  "name": "Phonics eStore",
+  "website": "https://www.phonicsestore.com/",
+  "category": "Phonics & Handwriting",
+  "city": "Mumbai",
+  "state": "",
+  "country": "India",
+  "emails": [
+   "phonicsindia@gmail.com"
+  ],
+  "phones": [],
+  "whatsapp": "",
+  "instagram": "",
+  "facebook": "https://www.facebook.com/phonics.estore",
+  "linkedin": "",
+  "platform": "Blogger",
+  "issues": "Garish clashing colours, clip-art, tiny dropdowns, cluttered Blogger layout.",
+  "pitch": "Replace the chaotic Blogger site with a clean phonics store and courses hub.",
+  "screenshot": "shots/phonicsestore.com.jpg",
+  "status": "New",
+  "notes": ""
+ },
+ {
+  "score": 2,
+  "name": "Argus Kids",
+  "website": "https://www.arguskids.com/",
+  "category": "Preschool",
+  "city": "Ranchi",
+  "state": "",
+  "country": "India",
+  "emails": [],
+  "phones": [
+   "+91 86030 00160"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "facebook": "",
+  "linkedin": "",
+  "platform": "",
+  "issues": "Garish baked-text banner; clashing colours; tiny text; 2000s-style footer links.",
+  "pitch": "Complete makeover from a 2000s-style page to a modern preschool site.",
+  "screenshot": "shots/arguskids.com.jpg",
+  "status": "New",
+  "notes": ""
+ },
+ {
+  "score": 2,
   "name": "Edukids Play School",
   "website": "https://www.edukids.in/",
   "category": "Preschool",
@@ -790,6 +1121,79 @@
   "screenshot": "shots/edukids.in.jpg",
   "status": "New",
   "notes": ""
+ },
+ {
+  "score": 2,
+  "name": "Kiddos Club",
+  "website": "https://kiddosclub.in/",
+  "category": "Preschool",
+  "city": "Ahmedabad",
+  "state": "",
+  "country": "India",
+  "emails": [],
+  "phones": [
+   "+91 63590 00096"
+  ],
+  "whatsapp": "",
+  "instagram": "https://www.instagram.com/thekiddosclub/",
+  "facebook": "https://www.facebook.com/kiddosclub211",
+  "linkedin": "",
+  "platform": "WordPress",
+  "issues": "Broken layout: unstyled nav, broken logo, blank page above fold.",
+  "pitch": "Fix and rebuild into a polished preschool and daycare site.",
+  "screenshot": "shots/kiddosclub.in.jpg",
+  "status": "New",
+  "notes": ""
+ },
+ {
+  "score": 2,
+  "name": "Wee World Play School",
+  "website": "https://weeworldplayschool.com/",
+  "category": "Preschool",
+  "city": "Ranchi",
+  "state": "",
+  "country": "India",
+  "emails": [
+   "weeworldplayschool@gmail.com"
+  ],
+  "phones": [
+   "+91 8709322466"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "facebook": "https://www.facebook.com/Wee-World-Play-School-438979969612134/",
+  "linkedin": "https://www.linkedin.com/in/swati-munjal-8222871aa",
+  "platform": "WordPress",
+  "issues": "Blank hero; broken logo image alt text; nothing above fold.",
+  "pitch": "Rebuild a broken site into a welcoming playschool homepage.",
+  "screenshot": "shots/weeworldplayschool.com.jpg",
+  "status": "New",
+  "notes": ""
+ },
+ {
+  "score": 2,
+  "name": "S.N. Memorial Public School",
+  "website": "https://snmemorialpublicschool.com/",
+  "category": "Private School",
+  "city": "Dehradun",
+  "state": "",
+  "country": "India",
+  "emails": [
+   "snmemorialpublicschool@gmail.com"
+  ],
+  "phones": [
+   "+91 7055504876"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "facebook": "https://www.facebook.com/snmps",
+  "linkedin": "",
+  "platform": "Blogger",
+  "issues": "Blogger template with tiny cramped nav; enquiry popup over blank page; dated logo; 2016 copyright",
+  "pitch": "Replace the 2016 Blogger site with a modern school website built for admissions",
+  "screenshot": "shots/snmemorialpublicschool.com.jpg",
+  "status": "New",
+  "notes": "copyright 2016"
  },
  {
   "score": 2,
@@ -839,6 +1243,32 @@
   "issues": "Broken layout: unstyled text blocks, broken header image, grey bars, no hero or visual hierarchy.",
   "pitch": "Rebuild a broken, unstyled site into a professional IAS/KAS coaching homepage.",
   "screenshot": "shots/amoghavarshaiaskas.in.jpg",
+  "status": "New",
+  "notes": ""
+ },
+ {
+  "score": 3,
+  "name": "Abacus Champs Academy",
+  "website": "https://abacuschampsacademy.com/",
+  "category": "Abacus & Vedic Maths",
+  "city": "Ranchi",
+  "state": "",
+  "country": "India",
+  "emails": [
+   "info@abacuschampsacademy.com",
+   "abacuschamps@gmail.com"
+  ],
+  "phones": [
+   "+91 93112 29429"
+  ],
+  "whatsapp": "https://wa.me/919311229429",
+  "instagram": "",
+  "facebook": "",
+  "linkedin": "",
+  "platform": "",
+  "issues": "Cluttered header with app badges; tiny nav; dated 2019 event photo as hero.",
+  "pitch": "Refresh with a modern kid-friendly hero, current results and clear enrol CTA.",
+  "screenshot": "shots/abacuschampsacademy.com.jpg",
   "status": "New",
   "notes": ""
  },
@@ -938,6 +1368,32 @@
   "issues": "Logo overlapped by text; competition poster with baked-in text; red cramped nav; no clear headline.",
   "pitch": "Clean multi-centre abacus site with clear branding and course navigation.",
   "screenshot": "shots/iqplusacademy.com.jpg",
+  "status": "New",
+  "notes": ""
+ },
+ {
+  "score": 3,
+  "name": "Indian Abacus Academy",
+  "website": "https://indianabacusacademy.com/",
+  "category": "Abacus & Vedic Maths",
+  "city": "Online",
+  "state": "",
+  "country": "India",
+  "emails": [
+   "indianabacusacademy@gmail.com"
+  ],
+  "phones": [
+   "+91 76270 13952",
+   "+91 70143 10292"
+  ],
+  "whatsapp": "https://wa.me/message/X2HO4T2WTN7RE1",
+  "instagram": "https://www.instagram.com/invites/contact/?i=14zlfph2wqdsc&utm_content=4c3g0un",
+  "facebook": "https://www.facebook.com/299640080663796/posts/747544359206697/",
+  "linkedin": "",
+  "platform": "",
+  "issues": "Garish baked-text banner with clashing colours; crowded nav; cheap template feel.",
+  "pitch": "Replace flyer-style banner with a clean, parent-friendly abacus homepage.",
+  "screenshot": "shots/indianabacusacademy.com.jpg",
   "status": "New",
   "notes": ""
  },
@@ -1069,7 +1525,7 @@
  },
  {
   "score": 3,
-  "name": "Vedic Maths Learning Step by Step",
+  "name": "Vedic Math School",
   "website": "https://vedicmathschool.org/",
   "category": "Abacus & Vedic Maths",
   "city": "Kochi",
@@ -1115,6 +1571,29 @@
   "issues": "Popup ad covers hero; clashing multi-colour text on purple; cluttered header and side buttons.",
   "pitch": "Calm, clean abacus brand site without popups and rainbow text.",
   "screenshot": "shots/whizzkidzsabacus.com.jpg",
+  "status": "New",
+  "notes": ""
+ },
+ {
+  "score": 3,
+  "name": "NS Kumbar Art Academy",
+  "website": "https://nskumbar.art/",
+  "category": "Art Academy",
+  "city": "Bangalore",
+  "state": "",
+  "country": "India",
+  "emails": [
+   "nskumbarart@gmail.com"
+  ],
+  "phones": [],
+  "whatsapp": "",
+  "instagram": "https://www.instagram.com/nskumbarartacademy/",
+  "facebook": "https://www.facebook.com/nskumbartartist/",
+  "linkedin": "",
+  "platform": "",
+  "issues": "Slider of poster banners with baked-in text and QR code; tiny serif nav; cut-off founder photo",
+  "pitch": "Swap poster sliders for a clean hero showcasing courses, artwork and a demo-class CTA",
+  "screenshot": "shots/nskumbar.art.jpg",
   "status": "New",
   "notes": ""
  },
@@ -1302,6 +1781,33 @@
  },
  {
   "score": 3,
+  "name": "VSI Jaipur",
+  "website": "https://www.vsijaipur.com/",
+  "category": "Commerce/CA Coaching",
+  "city": "Jaipur",
+  "state": "",
+  "country": "India",
+  "emails": [
+   "vsijaipur@yahoo.com"
+  ],
+  "phones": [
+   "+91 7821821250",
+   "+91 9351468666",
+   "+91 78218 21253"
+  ],
+  "whatsapp": "",
+  "instagram": "https://www.instagram.com/vsijaipur/",
+  "facebook": "https://www.facebook.com/vsijaipur/",
+  "linkedin": "",
+  "platform": "WordPress",
+  "issues": "Promo popup over a cluttered banner slider; cramped header with many coloured buttons; baked-in banner text.",
+  "pitch": "Cut the noise: a clean CA coaching homepage with one clear enrolment path.",
+  "screenshot": "shots/vsijaipur.com.jpg",
+  "status": "New",
+  "notes": ""
+ },
+ {
+  "score": 3,
   "name": "ICM Computer Institute",
   "website": "https://icminstitute.co.in/",
   "category": "Computer Training",
@@ -1356,6 +1862,31 @@
  },
  {
   "score": 3,
+  "name": "Jains Computer",
+  "website": "https://jainscomputer.com/",
+  "category": "Computer Training",
+  "city": "Jaipur",
+  "state": "",
+  "country": "India",
+  "emails": [
+   "contact@jainscomputer.com"
+  ],
+  "phones": [
+   "+91 95714 06998"
+  ],
+  "whatsapp": "",
+  "instagram": "https://instagram.com/",
+  "facebook": "https://facebook.com/",
+  "linkedin": "",
+  "platform": "Next.js",
+  "issues": "Fold is a full-screen founder photo on red; no headline, nav or CTA visible",
+  "pitch": "Lead with courses and a clear CTA instead of a full-screen portrait",
+  "screenshot": "shots/jainscomputer.com.jpg",
+  "status": "New",
+  "notes": "slow load 9s"
+ },
+ {
+  "score": 3,
   "name": "NICS Computer",
   "website": "https://nicscomputer.com/",
   "category": "Computer Training",
@@ -1378,33 +1909,6 @@
   "screenshot": "shots/nicscomputer.com.jpg",
   "status": "New",
   "notes": "copyright 2022"
- },
- {
-  "score": 3,
-  "name": "Patel Web Solution",
-  "website": "https://patelwebsolution.com/",
-  "category": "Computer Training",
-  "city": "Ahmedabad",
-  "state": "",
-  "country": "India",
-  "emails": [
-   "mohit.patelwebsolution@gmail.com",
-   "heena.patelwebsolution@gmail.com"
-  ],
-  "phones": [
-   "+91 93166 68388",
-   "+91 96628 14474"
-  ],
-  "whatsapp": "https://api.whatsapp.com/send?phone=+919316668388&text=Hello%20Patel%20Web%20Solution%20%20%20I%20Am%20Looking%20For%20",
-  "instagram": "https://instagram.com/patel_web_solution?igshid=MzMyNGUyNmU2YQ==",
-  "facebook": "",
-  "linkedin": "https://www.linkedin.com/in/patel-web-solution-594851a9/",
-  "platform": "",
-  "issues": "Banner slider with baked-in text; cluttered triple top bars; clashing colors.",
-  "pitch": "Clean IT-training site with real placement stories and course cards.",
-  "screenshot": "shots/patelwebsolution.com.jpg",
-  "status": "New",
-  "notes": ""
  },
  {
   "score": 3,
@@ -1506,7 +2010,34 @@
  },
  {
   "score": 3,
-  "name": "Kshitij Vivan",
+  "name": "Sree Nirthyapriya Temple of Arts",
+  "website": "https://www.snptempleofarts.com/",
+  "category": "Dance Academy",
+  "city": "Chennai",
+  "state": "",
+  "country": "India",
+  "emails": [
+   "actorkarthikan@gmail.com"
+  ],
+  "phones": [
+   "+91 99404 07464",
+   "+91 98844 37549",
+   "+91 81110 00097"
+  ],
+  "whatsapp": "",
+  "instagram": "https://www.instagram.com/snptempleofarts/",
+  "facebook": "https://www.facebook.com/snptempleofarts",
+  "linkedin": "",
+  "platform": "Wix",
+  "issues": "Empty orange block; tiny text; cramped Wix layout; mismatched colours.",
+  "pitch": "Elegant Bharatanatyam school site with performance imagery and free-trial CTA.",
+  "screenshot": "shots/snptempleofarts.com.jpg",
+  "status": "New",
+  "notes": ""
+ },
+ {
+  "score": 3,
+  "name": "Kshitij Vivan Institute",
   "website": "https://www.animationcoursesahmedabad.com/",
   "category": "Digital Skills Training",
   "city": "Ahmedabad",
@@ -1529,6 +2060,31 @@
   "screenshot": "shots/animationcoursesahmedabad.com.jpg",
   "status": "New",
   "notes": "copyright 2020"
+ },
+ {
+  "score": 3,
+  "name": "Voxel Design Institute",
+  "website": "https://www.voxeldesigninstitute.com/",
+  "category": "Digital Skills Training",
+  "city": "Rajkot",
+  "state": "",
+  "country": "India",
+  "emails": [
+   "contact@voxeldesigninstitute.com"
+  ],
+  "phones": [
+   "+91 95120 21227"
+  ],
+  "whatsapp": "https://api.whatsapp.com/send?phone=919512021227&forceIntent=true&load=loadInIOSExternalSafari",
+  "instagram": "https://www.instagram.com/voxeldesigninstitute/",
+  "facebook": "https://www.facebook.com/people/Voxel-Design-Institute/61563814197232/?mibextid=ZbWKwL",
+  "linkedin": "https://www.linkedin.com/in/voxeldesigninstitute",
+  "platform": "",
+  "issues": "No headline or nav visible; random 3D cartoon characters; broken header layout",
+  "pitch": "Rebuild with a clear headline, navigation and real student portfolio",
+  "screenshot": "shots/voxeldesigninstitute.com.jpg",
+  "status": "New",
+  "notes": ""
  },
  {
   "score": 3,
@@ -1864,58 +2420,6 @@
  },
  {
   "score": 3,
-  "name": "Home Tuition Bangalore",
-  "website": "https://www.hometuitionbangalore.in/",
-  "category": "Home Tuition Bureau",
-  "city": "Bangalore",
-  "state": "",
-  "country": "India",
-  "emails": [
-   "info@hometuitionbangalore.in",
-   "info@hometuitionindia.com"
-  ],
-  "phones": [
-   "+91 90350 72996"
-  ],
-  "whatsapp": "https://api.whatsapp.com/send?phone=919035072996&text=Hello!%20I%20have%20few%20queries%20regarding%20tuition!",
-  "instagram": "",
-  "facebook": "https://www.facebook.com/people/Home-Tutors-Bangalore/100077577043655/",
-  "linkedin": "https://www.linkedin.com/in/home-tuition-in-bangalore/",
-  "platform": "WordPress",
-  "issues": "Hero is a banner image with baked-in bullet text and clip-art, cramped dual header bars.",
-  "pitch": "Swap a clip-art text banner for a modern hero with real photos and booking CTA.",
-  "screenshot": "shots/hometuitionbangalore.in.jpg",
-  "status": "New",
-  "notes": "Also runs https://www.hometuitionindia.com/ (4/10) — multi-site owner, good SiteOn fit"
- },
- {
-  "score": 3,
-  "name": "Home Tutor Near Me",
-  "website": "https://www.nemadehometutors.in/",
-  "category": "Home Tuition Bureau",
-  "city": "Nashik",
-  "state": "",
-  "country": "India",
-  "emails": [
-   "kamalakar.nemade@gmail.com"
-  ],
-  "phones": [
-   "+91 95618 53767",
-   "+91 80879 04600"
-  ],
-  "whatsapp": "",
-  "instagram": "",
-  "facebook": "",
-  "linkedin": "",
-  "platform": "WordPress",
-  "issues": "Watermarked stock photo as hero, no headline, lone small CTA, two-line cramped nav.",
-  "pitch": "Replace a watermarked stock image with a real headline-led tutor hero.",
-  "screenshot": "shots/nemadehometutors.in.jpg",
-  "status": "New",
-  "notes": ""
- },
- {
-  "score": 3,
   "name": "HomeTuitionTeachers.in",
   "website": "https://www.hometuitionteachers.in/",
   "category": "Home Tuition Bureau",
@@ -1937,6 +2441,31 @@
   "issues": "Basic Google Sites page, text-only header, tiny CTA, no imagery or visual hierarchy.",
   "pitch": "Move off Google Sites to a real branded site with photos, city pages and booking CTA.",
   "screenshot": "shots/hometuitionteachers.in.jpg",
+  "status": "New",
+  "notes": ""
+ },
+ {
+  "score": 3,
+  "name": "HomeTutorSite",
+  "website": "https://www.hometutorsite.com/",
+  "category": "Home Tuition Bureau",
+  "city": "Nashik",
+  "state": "",
+  "country": "India",
+  "emails": [
+   "info@hometutorsite.com"
+  ],
+  "phones": [
+   "+91 83676 82255"
+  ],
+  "whatsapp": "https://wa.me/918367682255",
+  "instagram": "",
+  "facebook": "https://www.facebook.com/hometutorsite",
+  "linkedin": "https://www.linkedin.com/in/hometutorsite",
+  "platform": "",
+  "issues": "Dated boxed layout, clip-art logo, tiny text, cluttered steps graphics, grey bland palette.",
+  "pitch": "Modernise a 2010-era tutor marketplace into a clean two-sided search experience.",
+  "screenshot": "shots/hometutorsite.com.jpg",
   "status": "New",
   "notes": ""
  },
@@ -1967,6 +2496,32 @@
   "screenshot": "shots/kochihometuition.com.jpg",
   "status": "New",
   "notes": ""
+ },
+ {
+  "score": 3,
+  "name": "Lady Tutors Near Me",
+  "website": "https://www.hometuitionbangalore.in/",
+  "category": "Home Tuition Bureau",
+  "city": "Bangalore",
+  "state": "",
+  "country": "India",
+  "emails": [
+   "info@hometuitionbangalore.in",
+   "info@hometuitionindia.com"
+  ],
+  "phones": [
+   "+91 90350 72996"
+  ],
+  "whatsapp": "https://api.whatsapp.com/send?phone=919035072996&text=Hello!%20I%20have%20few%20queries%20regarding%20tuition!",
+  "instagram": "",
+  "facebook": "https://www.facebook.com/people/Home-Tutors-Bangalore/100077577043655/",
+  "linkedin": "https://www.linkedin.com/in/home-tuition-in-bangalore/",
+  "platform": "WordPress",
+  "issues": "Hero is a banner image with baked-in bullet text and clip-art, cramped dual header bars.",
+  "pitch": "Swap a clip-art text banner for a modern hero with real photos and booking CTA.",
+  "screenshot": "shots/hometuitionbangalore.in.jpg",
+  "status": "New",
+  "notes": "Also runs https://www.hometuitionindia.com/ (4/10) — multi-site owner, good SiteOn fit"
  },
  {
   "score": 3,
@@ -2200,6 +2755,32 @@
  },
  {
   "score": 3,
+  "name": "Trusted Home Tuition & Online Tutors",
+  "website": "https://www.nemadehometutors.in/",
+  "category": "Home Tuition Bureau",
+  "city": "Nashik",
+  "state": "",
+  "country": "India",
+  "emails": [
+   "kamalakar.nemade@gmail.com"
+  ],
+  "phones": [
+   "+91 95618 53767",
+   "+91 80879 04600"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "facebook": "",
+  "linkedin": "",
+  "platform": "WordPress",
+  "issues": "Watermarked stock photo as hero, no headline, lone small CTA, two-line cramped nav.",
+  "pitch": "Replace a watermarked stock image with a real headline-led tutor hero.",
+  "screenshot": "shots/nemadehometutors.in.jpg",
+  "status": "New",
+  "notes": ""
+ },
+ {
+  "score": 3,
   "name": "Tuition Teachers",
   "website": "https://www.tuitionteachers.in/",
   "category": "Home Tuition Bureau",
@@ -2251,31 +2832,6 @@
  },
  {
   "score": 3,
-  "name": "hometutorsite.com",
-  "website": "https://www.hometutorsite.com/",
-  "category": "Home Tuition Bureau",
-  "city": "Nashik",
-  "state": "",
-  "country": "India",
-  "emails": [
-   "info@hometutorsite.com"
-  ],
-  "phones": [
-   "+91 83676 82255"
-  ],
-  "whatsapp": "https://wa.me/918367682255",
-  "instagram": "",
-  "facebook": "https://www.facebook.com/hometutorsite",
-  "linkedin": "https://www.linkedin.com/in/hometutorsite",
-  "platform": "",
-  "issues": "Dated boxed layout, clip-art logo, tiny text, cluttered steps graphics, grey bland palette.",
-  "pitch": "Modernise a 2010-era tutor marketplace into a clean two-sided search experience.",
-  "screenshot": "shots/hometutorsite.com.jpg",
-  "status": "New",
-  "notes": ""
- },
- {
-  "score": 3,
   "name": "British Career Group",
   "website": "https://www.britishcareergroup.com/",
   "category": "IELTS/PTE Coaching",
@@ -2296,6 +2852,58 @@
   "screenshot": "shots/britishcareergroup.com.jpg",
   "status": "New",
   "notes": "copyright 2020"
+ },
+ {
+  "score": 3,
+  "name": "EPIC Patiala",
+  "website": "https://www.epicpatiala.com/",
+  "category": "IELTS/PTE Coaching",
+  "city": "Patiala",
+  "state": "",
+  "country": "India",
+  "emails": [
+   "info@epicpatiala.com"
+  ],
+  "phones": [
+   "+91 87270 10077"
+  ],
+  "whatsapp": "",
+  "instagram": "https://www.instagram.com/epic_patiala/?hl=en",
+  "facebook": "https://www.facebook.com/patialaepic/",
+  "linkedin": "",
+  "platform": "WordPress",
+  "issues": "Storefront signboard photo as hero; red form block; cluttered banners; dated logo",
+  "pitch": "Swap the storefront photo and form for a modern results-led hero",
+  "screenshot": "shots/epicpatiala.com.jpg",
+  "status": "New",
+  "notes": ""
+ },
+ {
+  "score": 3,
+  "name": "Ealoor Consultancy",
+  "website": "https://www.ealoorconsultancy.com/",
+  "category": "IELTS/PTE Coaching",
+  "city": "Kottayam",
+  "state": "",
+  "country": "India",
+  "emails": [
+   "contact@ealoorconsultancy.com"
+  ],
+  "phones": [
+   "+91 85472 42233",
+   "+91 93495 00900",
+   "+91 94471 42592"
+  ],
+  "whatsapp": "https://wa.me/919447142592",
+  "instagram": "",
+  "facebook": "",
+  "linkedin": "",
+  "platform": "WordPress",
+  "issues": "Dark generic stock hero; low-res logo banner image; cramped enquiry form; no CTA",
+  "pitch": "Replace low-res banners and stock photos with a clean, trustworthy modern layout",
+  "screenshot": "shots/ealoorconsultancy.com.jpg",
+  "status": "New",
+  "notes": ""
  },
  {
   "score": 3,
@@ -2325,6 +2933,56 @@
  },
  {
   "score": 3,
+  "name": "MNII",
+  "website": "https://mnii.in/",
+  "category": "IELTS/PTE Coaching",
+  "city": "Patiala",
+  "state": "",
+  "country": "India",
+  "emails": [
+   "mniipta@gmail.com"
+  ],
+  "phones": [
+   "+91 74891 61313"
+  ],
+  "whatsapp": "https://web.whatsapp.com/send?phone=917489161313&text=",
+  "instagram": "https://www.instagram.com/offical_sukhpreet_sidhu?igsh=dTJjZHczbjRkbXpq&utm_source=qr",
+  "facebook": "https://www.facebook.com/profile.php?id=61563057101613&mibextid=LQQJ4d",
+  "linkedin": "",
+  "platform": "WordPress",
+  "issues": "Header overlaps content; no hero visible; mixed nanny/immigration messaging; thin weak typography",
+  "pitch": "Clarify your offer with a focused hero and properly structured layout",
+  "screenshot": "shots/mnii.in.jpg",
+  "status": "New",
+  "notes": ""
+ },
+ {
+  "score": 3,
+  "name": "RG International",
+  "website": "https://rginternational.org/",
+  "category": "IELTS/PTE Coaching",
+  "city": "Surat",
+  "state": "",
+  "country": "India",
+  "emails": [
+   "inquiry@rginternational.org"
+  ],
+  "phones": [
+   "+91 75758 66622"
+  ],
+  "whatsapp": "",
+  "instagram": "https://instagram.com/rginternational.india?igshid=1qmk46yc13sep",
+  "facebook": "https://www.facebook.com/RGInternational.India/",
+  "linkedin": "https://linkedin.com/company/rgint2008/",
+  "platform": "WordPress",
+  "issues": "Empty muddy-blue hero; text pushed to bottom; garish orange heading; oversized form dominates",
+  "pitch": "Rebuild the hero with imagery, clear hierarchy and a lighter enquiry flow",
+  "screenshot": "shots/rginternational.org.jpg",
+  "status": "New",
+  "notes": ""
+ },
+ {
+  "score": 3,
   "name": "Rone Global",
   "website": "https://roneglobal.com/",
   "category": "IELTS/PTE Coaching",
@@ -2346,6 +3004,31 @@
   "issues": "Rainbow top-bar buttons; banner with baked text; red underlined headings; walls of text.",
   "pitch": "Declutter into a credible consultancy site with clear services and student outcomes.",
   "screenshot": "shots/roneglobal.com.jpg",
+  "status": "New",
+  "notes": ""
+ },
+ {
+  "score": 3,
+  "name": "Stern Institute",
+  "website": "https://www.sterninstitute.com/",
+  "category": "IELTS/PTE Coaching",
+  "city": "Surat",
+  "state": "",
+  "country": "India",
+  "emails": [
+   "info@sterninstitute.com"
+  ],
+  "phones": [
+   "+91 90163 54402"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "facebook": "",
+  "linkedin": "",
+  "platform": "",
+  "issues": "Promo poster popup over page; cramped form and text panels; dated cluttered layout",
+  "pitch": "Replace popups and clutter with a clean German-classes hero and demo CTA",
+  "screenshot": "shots/sterninstitute.com.jpg",
   "status": "New",
   "notes": ""
  },
@@ -2378,26 +3061,53 @@
  },
  {
   "score": 3,
-  "name": "JEE Institute in Indore",
-  "website": "https://www.medimath.in/",
+  "name": "Guide My Talent",
+  "website": "https://www.guidemytalent.com/",
+  "category": "JEE/NEET Coaching",
+  "city": "Jaipur",
+  "state": "",
+  "country": "India",
+  "emails": [
+   "guidemytalent@gmail.com",
+   "info@guidemytalent.com"
+  ],
+  "phones": [
+   "+91 70730 16750"
+  ],
+  "whatsapp": "https://web.whatsapp.com/send?phone=+7073016750",
+  "instagram": "https://www.instagram.com/guidemytalent/",
+  "facebook": "https://www.facebook.com/guidemytalent",
+  "linkedin": "",
+  "platform": "WordPress",
+  "issues": "Cluttered banner with handwritten letter and baked text; blurred face; cramped mixed-font content below.",
+  "pitch": "Present career counselling as a premium, trust-led service with clean hero and booking CTA.",
+  "screenshot": "shots/guidemytalent.com.jpg",
+  "status": "New",
+  "notes": "slow load 32s"
+ },
+ {
+  "score": 3,
+  "name": "Kalpavriksha Institute",
+  "website": "https://kalpavrikshainstitute.com/",
   "category": "JEE/NEET Coaching",
   "city": "Indore",
   "state": "",
   "country": "India",
   "emails": [
-   "info@medimath.com"
+   "contact@kalpavrikshainstitute.com"
   ],
   "phones": [
-   "+91 91118 11727"
+   "+91 98932 44227",
+   "+91 7314096363"
   ],
-  "whatsapp": "",
-  "instagram": "https://instagram.com/",
-  "facebook": "https://facebook.com/",
+  "whatsapp": "https://wa.me/919893244227?text=Hi%20",
+  "instagram": "https://www.instagram.com/kalpvriksha_institute/",
+  "facebook": "https://www.facebook.com/kalpvrikshaclasses/",
   "linkedin": "",
-  "platform": "WordPress",
-  "issues": "Results poster with baked-in text as hero, missing logo, cramped nav, slider arrows.",
-  "pitch": "Replace poster sliders with a clean hero, results section and course CTA.",
-  "screenshot": "shots/medimath.in.jpg",
+  "platform": "",
+  "issues": "Results poster as hero with baked-in tiny text, cluttered nav, overlapping elements.",
+  "pitch": "Present results as clean, readable sections instead of a crowded poster.",
+  "screenshot": "shots/kalpavrikshainstitute.com.jpg",
   "status": "New",
   "notes": ""
  },
@@ -2424,6 +3134,31 @@
   "issues": "Banner with baked-in Hindi/English text, cramped tiny nav, news-list sidebar, crowded header.",
   "pitch": "Swap banner clutter for a clean results-driven hero and course paths.",
   "screenshot": "shots/mgci.co.in.jpg",
+  "status": "New",
+  "notes": ""
+ },
+ {
+  "score": 3,
+  "name": "Medimath",
+  "website": "https://www.medimath.in/",
+  "category": "JEE/NEET Coaching",
+  "city": "Indore",
+  "state": "",
+  "country": "India",
+  "emails": [
+   "info@medimath.com"
+  ],
+  "phones": [
+   "+91 91118 11727"
+  ],
+  "whatsapp": "",
+  "instagram": "https://instagram.com/",
+  "facebook": "https://facebook.com/",
+  "linkedin": "",
+  "platform": "WordPress",
+  "issues": "Results poster with baked-in text as hero, missing logo, cramped nav, slider arrows.",
+  "pitch": "Replace poster sliders with a clean hero, results section and course CTA.",
+  "screenshot": "shots/medimath.in.jpg",
   "status": "New",
   "notes": ""
  },
@@ -2458,27 +3193,79 @@
  },
  {
   "score": 3,
-  "name": "kalpavrikshainstitute.com",
-  "website": "https://kalpavrikshainstitute.com/",
+  "name": "Paripoorna Academy",
+  "website": "https://www.paripoornaacademy.com/",
   "category": "JEE/NEET Coaching",
-  "city": "Indore",
+  "city": "Trichy",
   "state": "",
   "country": "India",
   "emails": [
-   "contact@kalpavrikshainstitute.com"
+   "paripoorna@gvmfl.com"
   ],
   "phones": [
-   "+91 98932 44227",
-   "+91 7314096363"
+   "+91 4314004100",
+   "+91 99401 11309"
   ],
-  "whatsapp": "https://wa.me/919893244227?text=Hi%20",
-  "instagram": "https://www.instagram.com/kalpvriksha_institute/",
-  "facebook": "https://www.facebook.com/kalpvrikshaclasses/",
+  "whatsapp": "",
+  "instagram": "https://www.instagram.com/paripoornacademy/",
+  "facebook": "https://www.facebook.com/paripoornaneet/",
   "linkedin": "",
   "platform": "",
-  "issues": "Results poster as hero with baked-in tiny text, cluttered nav, overlapping elements.",
-  "pitch": "Present results as clean, readable sections instead of a crowded poster.",
-  "screenshot": "shots/kalpavrikshainstitute.com.jpg",
+  "issues": "Crowded student-photo banner with tiny baked text; boxy blue tiles; tiny body text.",
+  "pitch": "Turn a cluttered results page into a clean, modern NEET/JEE coaching homepage.",
+  "screenshot": "shots/paripoornadigital.com.jpg",
+  "status": "New",
+  "notes": ""
+ },
+ {
+  "score": 3,
+  "name": "The Rankers Academy",
+  "website": "https://therankersacademy.com/",
+  "category": "JEE/NEET Coaching",
+  "city": "Nagpur",
+  "state": "",
+  "country": "India",
+  "emails": [
+   "info@therankersacademy.com"
+  ],
+  "phones": [
+   "+91 83291 00890",
+   "+91 7124070217",
+   "+91 78218 14102"
+  ],
+  "whatsapp": "https://wa.me/918329100890",
+  "instagram": "https://www.instagram.com/",
+  "facebook": "https://www.facebook.com/",
+  "linkedin": "",
+  "platform": "WordPress",
+  "issues": "Autoplay video modal over hero; cropped baked-text admission banner; inconsistent typography.",
+  "pitch": "Remove intrusive video popup; build a clean JEE/NEET hero with clear admissions CTA.",
+  "screenshot": "shots/therankersacademy.com.jpg",
+  "status": "New",
+  "notes": ""
+ },
+ {
+  "score": 3,
+  "name": "10xTechClub",
+  "website": "https://10xtechclub.com/",
+  "category": "Kids Coding & Robotics",
+  "city": "Pune",
+  "state": "",
+  "country": "India",
+  "emails": [
+   "hello@10xtechclub.com"
+  ],
+  "phones": [
+   "+91 97660 10910"
+  ],
+  "whatsapp": "https://wa.me/919766010910",
+  "instagram": "https://www.instagram.com/10xtechclub/",
+  "facebook": "https://www.facebook.com/10xTechClub",
+  "linkedin": "https://www.linkedin.com/in/prasad-valavade/",
+  "platform": "",
+  "issues": "Hero is empty black box with all-caps text; odd floating header buttons; no imagery or brand.",
+  "pitch": "Build an energetic STEM brand with kids-in-action imagery and clear programme CTAs.",
+  "screenshot": "shots/10xtechclub.com.jpg",
   "status": "New",
   "notes": ""
  },
@@ -2504,6 +3291,30 @@
   "issues": "Banner slider with baked-in text and typos ('Bechlor', 'Paython'); garish colours; clashing fonts; cramped logo.",
   "pitch": "Professional, typo-free robotics institute site replacing loud banner sliders with clear messaging.",
   "screenshot": "shots/robotrix.in.jpg",
+  "status": "New",
+  "notes": ""
+ },
+ {
+  "score": 3,
+  "name": "Skilzlearn",
+  "website": "https://skilzlearn.com/",
+  "category": "Kids Coding & Robotics",
+  "city": "Coimbatore",
+  "state": "",
+  "country": "India",
+  "emails": [],
+  "phones": [
+   "+91 90870 44277",
+   "+91 97870 00027"
+  ],
+  "whatsapp": "https://wa.me/919787000027",
+  "instagram": "https://www.instagram.com/skilzlearn_academy/",
+  "facebook": "https://www.facebook.com/Skilzlearnacademy/",
+  "linkedin": "https://www.linkedin.com/company/109310167/admin/page-posts/published/",
+  "platform": "WordPress",
+  "issues": "No hero; broken partner logos and images; accreditation strip first; plain layout.",
+  "pitch": "Lead with job-ready outcomes and a strong hero instead of broken logo strips.",
+  "screenshot": "shots/skilzlearn.com.jpg",
   "status": "New",
   "notes": ""
  },
@@ -2588,7 +3399,59 @@
  },
  {
   "score": 3,
-  "name": "Music School",
+  "name": "Don Bosco Academy of Music & Fine Arts",
+  "website": "https://dbacademy.in/",
+  "category": "Music Academy",
+  "city": "Kochi",
+  "state": "",
+  "country": "India",
+  "emails": [
+   "dbacademy.kochi@gmail.com"
+  ],
+  "phones": [
+   "+91 81797 90794",
+   "+91 95444 49990",
+   "+91 87529 23456"
+  ],
+  "whatsapp": "",
+  "instagram": "https://www.instagram.com/db_music_academy/",
+  "facebook": "https://www.facebook.com/dbmusicacademy/",
+  "linkedin": "",
+  "platform": "WordPress",
+  "issues": "Hamburger-only nav on desktop; empty grey hero; no headline or CTA visible.",
+  "pitch": "Build a full, image-rich academy homepage with visible courses and enrol CTA.",
+  "screenshot": "shots/dbacademy.in.jpg",
+  "status": "New",
+  "notes": ""
+ },
+ {
+  "score": 3,
+  "name": "P2 Music Academy",
+  "website": "https://www.p2musicacademy.com/",
+  "category": "Music Academy",
+  "city": "Online",
+  "state": "",
+  "country": "India",
+  "emails": [
+   "info@p2musicacademy.com"
+  ],
+  "phones": [
+   "+91 97877 87796"
+  ],
+  "whatsapp": "https://wa.me/919787787796",
+  "instagram": "https://www.instagram.com/p2musicacademy/",
+  "facebook": "https://www.facebook.com/p2musicanddanceacademy/",
+  "linkedin": "",
+  "platform": "",
+  "issues": "Washed-out hero with wall of serif text; default fonts; tiny CTA.",
+  "pitch": "Elegant, modern Carnatic music brand with concise hero and demo booking.",
+  "screenshot": "shots/p2musicacademy.com.jpg",
+  "status": "New",
+  "notes": "copyright 2021"
+ },
+ {
+  "score": 3,
+  "name": "Rohit Akhouri Music School",
   "website": "https://rohitakhouri.com/",
   "category": "Music Academy",
   "city": "Ranchi",
@@ -2611,34 +3474,6 @@
   "screenshot": "shots/rohitakhouri.com.jpg",
   "status": "New",
   "notes": "copyright 2020"
- },
- {
-  "score": 3,
-  "name": "Playback singing class in Patna, Bihar",
-  "website": "https://www.symphobiaacademy.com/",
-  "category": "Music Academy",
-  "city": "Patna",
-  "state": "",
-  "country": "India",
-  "emails": [
-   "symphobiamusicacademy@gmail.com",
-   "john@doe.com"
-  ],
-  "phones": [
-   "+91 96934 85048",
-   "+91 97080 16878",
-   "+91 95252 91065"
-  ],
-  "whatsapp": "https://wa.me/919693485048",
-  "instagram": "",
-  "facebook": "https://www.facebook.com/symphobiaacademy",
-  "linkedin": "",
-  "platform": "",
-  "issues": "Cramped multi-number header, tiny logo, giant event photo with no headline or CTA.",
-  "pitch": "Turn a photo dump into a clear, enrolment-driven music academy homepage.",
-  "screenshot": "shots/symphobiaacademy.com.jpg",
-  "status": "New",
-  "notes": "Also runs https://symphobiamusicacademy.com/ (4/10) — multi-site owner, good SiteOn fit"
  },
  {
   "score": 3,
@@ -2669,29 +3504,57 @@
  },
  {
   "score": 3,
-  "name": "Olympiad Success",
-  "website": "https://www.olympiadsuccess.com/",
-  "category": "Olympiad",
-  "city": "Online",
+  "name": "Symphobia Music Academy",
+  "website": "https://www.symphobiaacademy.com/",
+  "category": "Music Academy",
+  "city": "Patna",
   "state": "",
   "country": "India",
   "emails": [
-   "support@olympiadsuccess.com"
+   "symphobiamusicacademy@gmail.com",
+   "john@doe.com"
   ],
   "phones": [
-   "+91 95607 64447",
-   "+91 85956 45138"
+   "+91 96934 85048",
+   "+91 97080 16878",
+   "+91 95252 91065"
   ],
-  "whatsapp": "https://api.whatsapp.com/send?phone=919560764447",
-  "instagram": "https://www.instagram.com/olympiadsuccess/",
-  "facebook": "https://www.facebook.com/OlympiadSuccess/",
-  "linkedin": "https://www.linkedin.com/company/olympiad-success",
+  "whatsapp": "https://wa.me/919693485048",
+  "instagram": "",
+  "facebook": "https://www.facebook.com/symphobiaacademy",
+  "linkedin": "",
   "platform": "",
-  "issues": "Popup ad over page; cluttered multi-row header; washed-out hero; competing forms and tabs.",
-  "pitch": "Declutter into a clean Olympiad platform with one clear trial CTA.",
-  "screenshot": "shots/olympiadsuccess.com.jpg",
+  "issues": "Cramped multi-number header, tiny logo, giant event photo with no headline or CTA.",
+  "pitch": "Turn a photo dump into a clear, enrolment-driven music academy homepage.",
+  "screenshot": "shots/symphobiaacademy.com.jpg",
   "status": "New",
-  "notes": "copyright 2018"
+  "notes": "Also runs https://symphobiamusicacademy.com/ (4/10) — multi-site owner, good SiteOn fit"
+ },
+ {
+  "score": 3,
+  "name": "Triguna School of Performing Arts",
+  "website": "https://www.trigunamusic.com/",
+  "category": "Music Academy",
+  "city": "Pune",
+  "state": "",
+  "country": "India",
+  "emails": [
+   "triguna.inforarts@gmail.com",
+   "triguna.infoarts@gmail.com"
+  ],
+  "phones": [
+   "+91 93569 60822"
+  ],
+  "whatsapp": "https://wa.me/message/VO2KRAIYTTBWB1",
+  "instagram": "https://www.instagram.com/triguna.musicschool/",
+  "facebook": "https://www.facebook.com/raisbalekhan",
+  "linkedin": "",
+  "platform": "Wix",
+  "issues": "Garish yellow header with tiny nav; blank blue hero; no headline or imagery.",
+  "pitch": "Build a vibrant performing-arts site with real student imagery and trial CTA.",
+  "screenshot": "shots/trigunamusic.com.jpg",
+  "status": "New",
+  "notes": "copyright 2021"
  },
  {
   "score": 3,
@@ -2770,6 +3633,31 @@
  },
  {
   "score": 3,
+  "name": "Grafiti Expressions",
+  "website": "https://grafitiexpressions.com/",
+  "category": "Phonics & Handwriting",
+  "city": "Pune",
+  "state": "",
+  "country": "India",
+  "emails": [
+   "grafiti.vishal@gmail.com"
+  ],
+  "phones": [
+   "+91 98810 93035"
+  ],
+  "whatsapp": "https://wa.me/919881093035",
+  "instagram": "http://instagram.com/grafiti_expressions/",
+  "facebook": "https://www.facebook.com/DrawingArtsPaintingClassesPuneGrafitiExpressions/",
+  "linkedin": "",
+  "platform": "WordPress",
+  "issues": "Enquiry popup over dated slider; serif text over busy painting; dense small text.",
+  "pitch": "Showcase student art in a modern gallery-led homepage without intrusive popups.",
+  "screenshot": "shots/grafitiexpressions.com.jpg",
+  "status": "New",
+  "notes": "copyright 2018"
+ },
+ {
+  "score": 3,
   "name": "HandwritingClasses.in",
   "website": "https://www.handwritingclasses.in/",
   "category": "Phonics & Handwriting",
@@ -2822,6 +3710,57 @@
  },
  {
   "score": 3,
+  "name": "Phonic Champs",
+  "website": "https://www.phonicchamps.com/",
+  "category": "Phonics & Handwriting",
+  "city": "Chennai",
+  "state": "",
+  "country": "India",
+  "emails": [
+   "info@phonicchamps.com"
+  ],
+  "phones": [
+   "+91 99412 12831",
+   "+91 96776 23444"
+  ],
+  "whatsapp": "",
+  "instagram": "https://www.instagram.com/phonicchamps",
+  "facebook": "",
+  "linkedin": "",
+  "platform": "",
+  "issues": "Full-screen preloader blocks content on load; no visible hero or CTA in capture.",
+  "pitch": "Fast-loading, welcoming Jolly Phonics site with immediate admissions CTA.",
+  "screenshot": "shots/phonicchamps.com.jpg",
+  "status": "New",
+  "notes": ""
+ },
+ {
+  "score": 3,
+  "name": "Junior Oxford",
+  "website": "https://www.junioroxford.com/",
+  "category": "Preschool",
+  "city": "Patna",
+  "state": "",
+  "country": "India",
+  "emails": [
+   "junior.oxford.preschool@gmail.com"
+  ],
+  "phones": [
+   "+91 78590 53373"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "facebook": "https://www.facebook.com/groups/1002358216786663/",
+  "linkedin": "https://www.linkedin.com/company/31490486",
+  "platform": "Wix",
+  "issues": "Framed photo on odd keyboard stock background; tiny nav; dated Wix template.",
+  "pitch": "Modern, cheerful preschool site with clear programmes and admission enquiry.",
+  "screenshot": "shots/junioroxford.com.jpg",
+  "status": "New",
+  "notes": ""
+ },
+ {
+  "score": 3,
   "name": "Kids' Pride School",
   "website": "https://kidsprideschool.com/",
   "category": "Preschool",
@@ -2845,6 +3784,110 @@
   "issues": "Banner slider with baked-in text and phone numbers; cluttered collage; clashing fonts.",
   "pitch": "Clean preschool site with branch finder and admissions CTA instead of text banners.",
   "screenshot": "shots/kidsprideschool.com.jpg",
+  "status": "New",
+  "notes": ""
+ },
+ {
+  "score": 3,
+  "name": "Little Creators Play School",
+  "website": "https://www.littlecreatorsindia.com/",
+  "category": "Preschool",
+  "city": "Patna",
+  "state": "",
+  "country": "India",
+  "emails": [
+   "info@littlecreatorsindia.com"
+  ],
+  "phones": [
+   "+91 80842 26222"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "facebook": "",
+  "linkedin": "",
+  "platform": "",
+  "issues": "Garish coloured tile nav; broken icons; tiny low-contrast text; dated layout.",
+  "pitch": "Replace the dated tile layout with a warm, photo-led preschool homepage.",
+  "screenshot": "shots/littlecreatorsindia.com.jpg",
+  "status": "New",
+  "notes": "copyright 2019"
+ },
+ {
+  "score": 3,
+  "name": "OrkidPetals Playschool",
+  "website": "https://www.orkidpetals.com/",
+  "category": "Preschool",
+  "city": "Patna",
+  "state": "",
+  "country": "India",
+  "emails": [
+   "orkidpetals@gmail.com"
+  ],
+  "phones": [
+   "+91 98107 67879"
+  ],
+  "whatsapp": "https://wa.me/919810767879?text=Hey%20I%20am%20contacting%20you%20through%20your%20website.",
+  "instagram": "",
+  "facebook": "http://www.facebook.com/orkidpetals",
+  "linkedin": "",
+  "platform": "Wix",
+  "issues": "Empty hero area; dated Wix nav bar; lime text paragraphs; weak hierarchy.",
+  "pitch": "Rebuild into a cheerful, trust-building playschool site with admissions CTA.",
+  "screenshot": "shots/orkidpetals.com.jpg",
+  "status": "New",
+  "notes": ""
+ },
+ {
+  "score": 3,
+  "name": "The Pole Star Preschool",
+  "website": "https://polestarpreschool.com/",
+  "category": "Preschool",
+  "city": "Surat",
+  "state": "",
+  "country": "India",
+  "emails": [
+   "thepolestarpreschool999@gmail.com"
+  ],
+  "phones": [
+   "+91 99780 07844",
+   "+91 9601266188"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "facebook": "",
+  "linkedin": "",
+  "platform": "WordPress",
+  "issues": "Broken logo image; clip-art hero with no headline or CTA; default fonts.",
+  "pitch": "Rebuild with a clear value proposition, real photos and admissions CTA.",
+  "screenshot": "shots/polestarpreschool.com.jpg",
+  "status": "New",
+  "notes": "copyright 2020"
+ },
+ {
+  "score": 3,
+  "name": "Indian Public School",
+  "website": "https://indianpublicschool.com/",
+  "category": "Private School",
+  "city": "Dehradun",
+  "state": "",
+  "country": "India",
+  "emails": [
+   "admission@indianpublicschool.com",
+   "info@indianpublicschool.com"
+  ],
+  "phones": [
+   "+91 95680 12778",
+   "+91 95680 12776",
+   "+91 75340 02632"
+  ],
+  "whatsapp": "https://api.whatsapp.com/send?phone=919568012778&text=Hello,%20I%20am%20interested%20in%20to%20know%20more%20about%20the%20school%20and%20admission%20process.",
+  "instagram": "https://www.instagram.com/ipsddn/",
+  "facebook": "https://www.facebook.com/theindianpublicschooldehradun",
+  "linkedin": "https://www.linkedin.com/company/the-indian-public-school-rajawala/",
+  "platform": "",
+  "issues": "Large poster popup covers page; behind it cluttered green/yellow overlays and wall of text",
+  "pitch": "Swap intrusive poster popups and clutter for a clean, campus-led hero with clear admissions CTA",
+  "screenshot": "shots/indianpublicschool.com.jpg",
   "status": "New",
   "notes": ""
  },
@@ -3051,6 +4094,32 @@
  },
  {
   "score": 4,
+  "name": "Impetus Abacus & Vedic Math",
+  "website": "https://www.impetusclasses.com/",
+  "category": "Abacus & Vedic Maths",
+  "city": "Online",
+  "state": "",
+  "country": "India",
+  "emails": [
+   "impetusclasses@gmail.com"
+  ],
+  "phones": [
+   "+91 84120 33399",
+   "+91 95611 65222"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "facebook": "",
+  "linkedin": "",
+  "platform": "Next.js",
+  "issues": "Hero says 'Watch Gallery' instead of value proposition; tiny CTA; generic trophy image.",
+  "pitch": "Lead with a clear abacus/Vedic maths promise for parents and a demo-class CTA.",
+  "screenshot": "shots/impetusclasses.com.jpg",
+  "status": "New",
+  "notes": ""
+ },
+ {
+  "score": 4,
   "name": "STEM Abacus Academy",
   "website": "https://smartenlivenmemory.com/",
   "category": "Abacus & Vedic Maths",
@@ -3122,6 +4191,60 @@
   "issues": "Generic stock-photo hero; tiny illegible subtext; counters showing '0'; default orange template blocks.",
   "pitch": "Replace stock template with an authentic, results-led tutoring homepage.",
   "screenshot": "shots/winaumlearning.com.jpg",
+  "status": "New",
+  "notes": ""
+ },
+ {
+  "score": 4,
+  "name": "Fine Arts Gurukul",
+  "website": "https://fineartsgurukul.org/",
+  "category": "Art Academy",
+  "city": "Bangalore",
+  "state": "",
+  "country": "India",
+  "emails": [
+   "care@rangdebharat.org",
+   "admissions@fineartsgurukul.org"
+  ],
+  "phones": [
+   "+91 76760 06006",
+   "+91 80266 55700"
+  ],
+  "whatsapp": "https://wa.me/917676006006",
+  "instagram": "https://www.instagram.com/fineartsgurukul/",
+  "facebook": "https://www.facebook.com/fineartsgurukul/",
+  "linkedin": "",
+  "platform": "WordPress",
+  "issues": "Hero is a blank white area with only a play button; no headline or CTA visible; vertical social text",
+  "pitch": "Fill the empty hero with a strong headline, student artwork and a visible enquiry CTA",
+  "screenshot": "shots/fineartsgurukul.org.jpg",
+  "status": "New",
+  "notes": ""
+ },
+ {
+  "score": 4,
+  "name": "Vruksha School of Fine Arts",
+  "website": "https://www.vrukshaschooloffinearts.com/",
+  "category": "Art Academy",
+  "city": "Bangalore",
+  "state": "",
+  "country": "India",
+  "emails": [
+   "vrukshaschooloffinearts@gmail.com",
+   "arunsagar.msa@gmail.com"
+  ],
+  "phones": [
+   "+91 95917 12002",
+   "+91 63610 28096"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "facebook": "https://www.facebook.com/vrukshaschooloffinearts/",
+  "linkedin": "",
+  "platform": "",
+  "issues": "Typewriter-animated title half-rendered; dark busy crowd photo; crowded nav with 10 items; dated top bar",
+  "pitch": "Replace the animated text slider with a clear headline, class CTA and curated artwork imagery",
+  "screenshot": "shots/vrukshaschooloffinearts.com.jpg",
   "status": "New",
   "notes": ""
  },
@@ -3209,7 +4332,8 @@
   "state": "",
   "country": "India",
   "emails": [
-   "hyderabachessschool@gmail.com"
+   "hyderabachessschool@gmail.com",
+   "hyderabadchessschool@gmail.com"
   ],
   "phones": [
    "+91 92461 51111",
@@ -3224,7 +4348,7 @@
   "pitch": "Add a clear message, CTA and brand to an empty photo hero.",
   "screenshot": "shots/hyderabadchessschool.com.jpg",
   "status": "New",
-  "notes": ""
+  "notes": "Also runs https://www.hyderabadchess.com/ (4/10) — multi-site owner, good SiteOn fit"
  },
  {
   "score": 4,
@@ -3516,6 +4640,32 @@
  },
  {
   "score": 4,
+  "name": "Shekhawati Classes",
+  "website": "https://shekhawaticlasses.com/",
+  "category": "Computer Training",
+  "city": "Jaipur",
+  "state": "",
+  "country": "India",
+  "emails": [
+   "shekhawaticlasses24@gmail.com"
+  ],
+  "phones": [
+   "+91 72407 77700",
+   "+91 98287 56444"
+  ],
+  "whatsapp": "https://wa.me/7240777700?text=Hello,%20%20Can%20i%20get%20more%20information%20about%20your%20courses!",
+  "instagram": "https://www.instagram.com/shekhawaticlassesandcomputer/",
+  "facebook": "https://www.facebook.com/profile.php?id=100068119126960",
+  "linkedin": "https://www.linkedin.com/company/104088052",
+  "platform": "Shopify",
+  "issues": "Dark overlay group photo; clashing slider arrows; 'Follow Us' in hero; cluttered top ticker",
+  "pitch": "Replace the dark slider with a bright, focused hero and clear course CTA",
+  "screenshot": "shots/shekhawaticlasses.com.jpg",
+  "status": "New",
+  "notes": "slow load 9s"
+ },
+ {
+  "score": 4,
   "name": "Six Sense Edu",
   "website": "https://www.sixsenseedu.com/",
   "category": "Computer Training",
@@ -3537,6 +4687,31 @@
   "issues": "Boxed 2015-era template; slider with low-res photo; small CTA; cramped header.",
   "pitch": "Contemporary accounting-institute site with clear courses and outcomes.",
   "screenshot": "shots/sixsenseedu.com.jpg",
+  "status": "New",
+  "notes": ""
+ },
+ {
+  "score": 4,
+  "name": "IndianNatya",
+  "website": "https://www.indiannatya.com/",
+  "category": "Dance Academy",
+  "city": "Online",
+  "state": "",
+  "country": "India",
+  "emails": [
+   "ersajeevan@gmail.com"
+  ],
+  "phones": [
+   "+91 77369 86699"
+  ],
+  "whatsapp": "https://wa.me/917736986699",
+  "instagram": "https://www.instagram.com/indiannatya",
+  "facebook": "https://www.facebook.com/indiannatya",
+  "linkedin": "",
+  "platform": "WordPress",
+  "issues": "Hazy washed-out overlay on hero image; low contrast; dated serif styling.",
+  "pitch": "Vibrant, high-contrast classical dance hero with clear class booking.",
+  "screenshot": "shots/indiannatya.com.jpg",
   "status": "New",
   "notes": ""
  },
@@ -3568,6 +4743,31 @@
  },
  {
   "score": 4,
+  "name": "Creative Design & Multimedia Institute",
+  "website": "https://www.cdmi.in/",
+  "category": "Digital Skills Training",
+  "city": "Surat",
+  "state": "",
+  "country": "India",
+  "emails": [
+   "info@cdmi.in"
+  ],
+  "phones": [
+   "+91 90333 16003"
+  ],
+  "whatsapp": "https://api.whatsapp.com/send?phone=919033316003",
+  "instagram": "https://www.instagram.com/creative_multimedia_institute/",
+  "facebook": "https://www.facebook.com/CreativeMultimediaInstituteSurat",
+  "linkedin": "",
+  "platform": "",
+  "issues": "Banner slider with baked-in promo text; crowded top bar; small nav",
+  "pitch": "Move from poster-style banners to a responsive, text-based hero",
+  "screenshot": "shots/cdmi.in.jpg",
+  "status": "New",
+  "notes": ""
+ },
+ {
+  "score": 4,
   "name": "Digital Marketing Studio",
   "website": "https://institute.digitalmarketingstudio.in/",
   "category": "Digital Skills Training",
@@ -3591,6 +4791,34 @@
   "screenshot": "shots/institute.digitalmarketingstudio.in.jpg",
   "status": "New",
   "notes": "slow load 11s"
+ },
+ {
+  "score": 4,
+  "name": "Digital Trainee",
+  "website": "https://digitaltrainee.com/",
+  "category": "Digital Skills Training",
+  "city": "Indore",
+  "state": "",
+  "country": "India",
+  "emails": [
+   "info@digitaltrainee.com",
+   "enquiry@digitaltrainee.com"
+  ],
+  "phones": [
+   "+91 89568 28983",
+   "+91 82377 74545",
+   "+91 93598 41451"
+  ],
+  "whatsapp": "https://api.whatsapp.com/send?phone=917841016363&text=Hello%2C+I+want+to+know+more+about+Digital+Marketer+Proof+Of+Work+Lab%3F",
+  "instagram": "https://www.instagram.com/digital_trainee/",
+  "facebook": "https://www.facebook.com/digitaltrainee",
+  "linkedin": "https://www.linkedin.com/company/digital-trainee/",
+  "platform": "NitroPack",
+  "issues": "Dense text and checklist crammed in hero; busy top bar; big form dominates",
+  "pitch": "Declutter the hero and let placements and results drive the design",
+  "screenshot": "shots/digitaltrainee.com.jpg",
+  "status": "New",
+  "notes": ""
  },
  {
   "score": 4,
@@ -3666,6 +4894,32 @@
   "screenshot": "shots/pidm.in.jpg",
   "status": "New",
   "notes": ""
+ },
+ {
+  "score": 4,
+  "name": "SkillUp Studio",
+  "website": "https://skillupstudio.in/",
+  "category": "Digital Skills Training",
+  "city": "Rajkot",
+  "state": "",
+  "country": "India",
+  "emails": [
+   "skillupstudiorajkot@gmail.com",
+   "hello@skillupstudio.in"
+  ],
+  "phones": [
+   "+91 78620 63415"
+  ],
+  "whatsapp": "",
+  "instagram": "https://www.instagram.com/skillup.studio/",
+  "facebook": "",
+  "linkedin": "https://www.linkedin.com/company/skillup-studio/",
+  "platform": "WordPress",
+  "issues": "Generic cut-out stock girl on flat blue; small weak CTA; template look",
+  "pitch": "Show real student design work for a portfolio-led, creative brand",
+  "screenshot": "shots/skillupstudio.in.jpg",
+  "status": "New",
+  "notes": "slow load 13s"
  },
  {
   "score": 4,
@@ -3748,6 +5002,60 @@
  },
  {
   "score": 4,
+  "name": "Dehradun Defence Academy",
+  "website": "https://dehradundefenceacademy.com/",
+  "category": "Govt Exam Coaching",
+  "city": "Dehradun",
+  "state": "",
+  "country": "India",
+  "emails": [
+   "dehradundefenceacademyindia@gmail.com",
+   "academyindia@gmail.com"
+  ],
+  "phones": [
+   "+91 90278 46416",
+   "+91 70173 40578",
+   "+91 95573 20811"
+  ],
+  "whatsapp": "https://api.whatsapp.com/send?phone=917900451851&text=Hello%2C%20I%20would%20like%20guidance%20on%20choosing%20a%20course%20at%20OGC%20Dehradun%20Defence%20Academy.%20Please%20help%20me%20explore%20suitable%20options%2C%20fees%20and%20the%20admission%20process.",
+  "instagram": "https://instagram.com/dehradundefenceacademy?utm_medium=copy_link",
+  "facebook": "https://www.facebook.com/Dehradundefenceacademy/",
+  "linkedin": "",
+  "platform": "WordPress",
+  "issues": "Hero is a baked-text ranker collage banner; tiny student photos; real headline pushed below the fold.",
+  "pitch": "Lead with a bold officer-aspirant hero and live, readable selections section.",
+  "screenshot": "shots/dehradundefenceacademy.com.jpg",
+  "status": "New",
+  "notes": ""
+ },
+ {
+  "score": 4,
+  "name": "Doon Defence Dreamers",
+  "website": "https://doondefencedreamers.com/",
+  "category": "Govt Exam Coaching",
+  "city": "Dehradun",
+  "state": "",
+  "country": "India",
+  "emails": [
+   "doondefencedreamers1@gmail.com"
+  ],
+  "phones": [
+   "+91 94296 91488",
+   "+91 94296 91072"
+  ],
+  "whatsapp": "https://wa.me/+919719876668",
+  "instagram": "https://www.instagram.com/dreamers_eduhub?igsh=eWVjOHVwM2kwd2dm",
+  "facebook": "https://www.facebook.com/profile.php?id=100064002554367",
+  "linkedin": "",
+  "platform": "WordPress",
+  "issues": "Baked-in text results banner as hero; tiny nav; real headline below fold.",
+  "pitch": "Build a bold, modern NDA coaching hero with live text and strong register CTA.",
+  "screenshot": "shots/doondefencedreamers.com.jpg",
+  "status": "New",
+  "notes": ""
+ },
+ {
+  "score": 4,
   "name": "Bangalore Home Tutor",
   "website": "https://bangalorehometutor.com/",
   "category": "Home Tuition Bureau",
@@ -3768,29 +5076,6 @@
   "issues": "Logo clipped, near-empty header, no headline in hero, search bar floating on blank gradient.",
   "pitch": "Give the hero a clear headline and trustworthy branding instead of a bare search bar.",
   "screenshot": "shots/bangalorehometutor.com.jpg",
-  "status": "New",
-  "notes": ""
- },
- {
-  "score": 4,
-  "name": "Best Tuition Teacher",
-  "website": "https://besttuitionteacher.com/",
-  "category": "Home Tuition Bureau",
-  "city": "Delhi",
-  "state": "",
-  "country": "India",
-  "emails": [],
-  "phones": [
-   "+91 85888 44841"
-  ],
-  "whatsapp": "https://wa.me/+918588844841",
-  "instagram": "https://www.instagram.com/besttuitionteacher.com1/",
-  "facebook": "https://www.facebook.com/besttuitionteacher.1/",
-  "linkedin": "",
-  "platform": "",
-  "issues": "Clunky yellow top buttons, social icon clutter, form-heavy layout, generic plain hero.",
-  "pitch": "Streamline the tutor-search flow into a clean, confident parent-first homepage.",
-  "screenshot": "shots/besttuitionteacher.com.jpg",
   "status": "New",
   "notes": ""
  },
@@ -3821,7 +5106,30 @@
  },
  {
   "score": 4,
-  "name": "Home Tutor Kanpur",
+  "name": "Find Home Tutors Near You",
+  "website": "https://besttuitionteacher.com/",
+  "category": "Home Tuition Bureau",
+  "city": "Delhi",
+  "state": "",
+  "country": "India",
+  "emails": [],
+  "phones": [
+   "+91 85888 44841"
+  ],
+  "whatsapp": "https://wa.me/+918588844841",
+  "instagram": "https://www.instagram.com/besttuitionteacher.com1/",
+  "facebook": "https://www.facebook.com/besttuitionteacher.1/",
+  "linkedin": "",
+  "platform": "",
+  "issues": "Clunky yellow top buttons, social icon clutter, form-heavy layout, generic plain hero.",
+  "pitch": "Streamline the tutor-search flow into a clean, confident parent-first homepage.",
+  "screenshot": "shots/besttuitionteacher.com.jpg",
+  "status": "New",
+  "notes": ""
+ },
+ {
+  "score": 4,
+  "name": "Find best home tutor in Kanpur",
   "website": "https://hometutorkanpur.in/",
   "category": "Home Tuition Bureau",
   "city": "Kanpur",
@@ -3847,7 +5155,7 @@
  },
  {
   "score": 4,
-  "name": "Home Tutor Lucknow",
+  "name": "Find best home tutor in Lucknow",
   "website": "https://www.hometutorlucknow.com/",
   "category": "Home Tuition Bureau",
   "city": "Lucknow",
@@ -4004,6 +5312,55 @@
  },
  {
   "score": 4,
+  "name": "Scientia Tutorials",
+  "website": "https://scientiatutorials.in/",
+  "category": "Home Tuition Bureau",
+  "city": "Guwahati",
+  "state": "",
+  "country": "India",
+  "emails": [
+   "scientiatutorials@gmail.com"
+  ],
+  "phones": [
+   "+91 98649 20707",
+   "+91 98640 14444"
+  ],
+  "whatsapp": "https://wa.me/919864920707",
+  "instagram": "https://www.instagram.com/",
+  "facebook": "https://www.facebook.com/",
+  "linkedin": "https://www.linkedin.com/in/scientia-tutorials-371747236/",
+  "platform": "WordPress",
+  "issues": "No hero or value proposition; registration cards as homepage; logo clipped",
+  "pitch": "Add a clear hero explaining your tutoring service before registration options",
+  "screenshot": "shots/scientiatutorials.in.jpg",
+  "status": "New",
+  "notes": ""
+ },
+ {
+  "score": 4,
+  "name": "Shishy Guru",
+  "website": "https://shishyguru.com/",
+  "category": "Home Tuition Bureau",
+  "city": "Lucknow",
+  "state": "",
+  "country": "India",
+  "emails": [],
+  "phones": [
+   "+91 82993 34589"
+  ],
+  "whatsapp": "",
+  "instagram": "https://www.instagram.com/shishyguru/#",
+  "facebook": "https://www.facebook.com/shishygurututor/",
+  "linkedin": "",
+  "platform": "",
+  "issues": "Small weak SEO headline; clashing yellow/purple header buttons; washed-out photo hero",
+  "pitch": "Build a trust-led tutor-matching homepage with clear hierarchy and branding",
+  "screenshot": "shots/shishyguru.com.jpg",
+  "status": "New",
+  "notes": ""
+ },
+ {
+  "score": 4,
   "name": "Teacherswala",
   "website": "https://teacherswala.com/",
   "category": "Home Tuition Bureau",
@@ -4082,7 +5439,163 @@
  },
  {
   "score": 4,
-  "name": "Best IIT-JEE Coaching in Indore, Madhya Pradesh",
+  "name": "Breffni Academy",
+  "website": "https://breffniacademy.in/",
+  "category": "IELTS/PTE Coaching",
+  "city": "Kottayam",
+  "state": "",
+  "country": "India",
+  "emails": [
+   "info@breffniacademy.in"
+  ],
+  "phones": [
+   "+353876555682",
+   "+91 88915 05777",
+   "+91 88915 04777"
+  ],
+  "whatsapp": "",
+  "instagram": "https://www.instagram.com/breffni_academy/?igsh=cWRybW40MW1tMW1p",
+  "facebook": "https://www.facebook.com/Breffnikottayam?mibextid=ZbWKwL",
+  "linkedin": "https://www.linkedin.com/in/breffni-academy-85591a300",
+  "platform": "WordPress",
+  "issues": "Cut-out stock girl on flat blue; faint spaced-letter backdrop; tiny logo; weak small CTA",
+  "pitch": "Replace stock cut-outs with real students and a bold enrolment-focused hero",
+  "screenshot": "shots/breffniacademy.in.jpg",
+  "status": "New",
+  "notes": ""
+ },
+ {
+  "score": 4,
+  "name": "COSMO Centre",
+  "website": "https://www.cosmocentre.in/",
+  "category": "IELTS/PTE Coaching",
+  "city": "Kochi",
+  "state": "",
+  "country": "India",
+  "emails": [
+   "cosmocentrein@gmail.com"
+  ],
+  "phones": [
+   "+91 90375 66995",
+   "+91 96452 20486",
+   "+91 90744 07881"
+  ],
+  "whatsapp": "https://wa.me/919037566995",
+  "instagram": "https://www.instagram.com/cosmo_centre",
+  "facebook": "https://www.facebook.com/cosmoielts",
+  "linkedin": "https://www.linkedin.com/in/cosmo-centre-31743a11b",
+  "platform": "",
+  "issues": "Generic 'Welcome To' over stock building photo; no CTA; slider; tiny logo",
+  "pitch": "Lead with your 98% high-score results and a booking CTA instead of a stock slider",
+  "screenshot": "shots/cosmocentre.in.jpg",
+  "status": "New",
+  "notes": ""
+ },
+ {
+  "score": 4,
+  "name": "Domain International",
+  "website": "https://domaininternational.in/",
+  "category": "IELTS/PTE Coaching",
+  "city": "Vadodara",
+  "state": "",
+  "country": "India",
+  "emails": [],
+  "phones": [
+   "+91 63588 26660",
+   "+91 99257 66657",
+   "+91 72020 26662"
+  ],
+  "whatsapp": "",
+  "instagram": "https://www.instagram.com/di_domain_international/",
+  "facebook": "https://www.facebook.com/DomainInternational",
+  "linkedin": "",
+  "platform": "WordPress",
+  "issues": "Large empty hero area; tiny cramped nav; dated logo; generic service boxes",
+  "pitch": "Fill the empty hero with a clear value proposition and visa/IELTS CTAs",
+  "screenshot": "shots/domaininternational.in.jpg",
+  "status": "New",
+  "notes": ""
+ },
+ {
+  "score": 4,
+  "name": "Grace Academy",
+  "website": "https://grace-academy.in/",
+  "category": "IELTS/PTE Coaching",
+  "city": "Kochi",
+  "state": "",
+  "country": "India",
+  "emails": [
+   "graceacademyaluva@gmail.com",
+   "graceacademypala@gmail.com"
+  ],
+  "phones": [
+   "+91 9207823777",
+   "+91 92075 22999"
+  ],
+  "whatsapp": "https://wa.me/919207823777",
+  "instagram": "https://www.instagram.com/grace_academy_/",
+  "facebook": "https://www.facebook.com/graceacademyaluva/",
+  "linkedin": "https://in.linkedin.com/company/graceacademy",
+  "platform": "WordPress",
+  "issues": "Grey dark box over empty hero; default Arial-style type; weak mismatched buttons",
+  "pitch": "Build a confident, photo-led hero with branded typography and clear course CTAs",
+  "screenshot": "shots/grace-academy.in.jpg",
+  "status": "New",
+  "notes": ""
+ },
+ {
+  "score": 4,
+  "name": "Meridean Overseas",
+  "website": "https://www.meridean.org/",
+  "category": "IELTS/PTE Coaching",
+  "city": "Jaipur",
+  "state": "",
+  "country": "India",
+  "emails": [
+   "application02@meridean.org"
+  ],
+  "phones": [
+   "+91 89059 98509",
+   "+91 91933 55213",
+   "+91 97388 01246"
+  ],
+  "whatsapp": "https://wa.me/9929723448",
+  "instagram": "https://www.instagram.com/merideanoverseas/",
+  "facebook": "https://www.facebook.com/MerideanOverseas",
+  "linkedin": "https://www.linkedin.com/company/meridean-overseas-education-consultants/",
+  "platform": "",
+  "issues": "Cut-out stock girl with clip-art collage; condensed headline font; long paragraph in hero; busy nav",
+  "pitch": "Trade clip-art collage and text walls for a premium, trust-building consultancy design",
+  "screenshot": "shots/meridean.org.jpg",
+  "status": "New",
+  "notes": ""
+ },
+ {
+  "score": 4,
+  "name": "Touchstone Educationals",
+  "website": "https://touchstoneedu.com/",
+  "category": "IELTS/PTE Coaching",
+  "city": "Chandigarh",
+  "state": "",
+  "country": "India",
+  "emails": [
+   "info@touchstoneedu.com"
+  ],
+  "phones": [],
+  "whatsapp": "",
+  "instagram": "https://www.instagram.com/touchstoneedu/",
+  "facebook": "https://www.facebook.com/TouchstoneEdu",
+  "linkedin": "https://www.linkedin.com/company/touchstone-educationals-pvt-ltd",
+  "platform": "WordPress",
+  "issues": "Generic stock-photo slider; small weak headline; 'Read More' CTA; faded watermark background",
+  "pitch": "Replace the generic slider with a focused hero and clear free-counselling CTA",
+  "screenshot": "shots/touchstoneedu.com.jpg",
+  "status": "New",
+  "notes": ""
+ },
+ {
+  "score": 4,
+  "name": "CatalyseR",
   "website": "https://www.catalyser.in/",
   "category": "JEE/NEET Coaching",
   "city": "Indore",
@@ -4106,6 +5619,60 @@
   "screenshot": "shots/catalyser.in.jpg",
   "status": "New",
   "notes": "copyright 2019"
+ },
+ {
+  "score": 4,
+  "name": "Chaitanya's Academy",
+  "website": "https://chaitanyas-academy.com/",
+  "category": "JEE/NEET Coaching",
+  "city": "Ranchi",
+  "state": "",
+  "country": "India",
+  "emails": [
+   "caweb@chaitanyas-academy.com",
+   "leads@chaitanyasacademy.in"
+  ],
+  "phones": [
+   "+91 95451 58108",
+   "+91 94231 37791",
+   "+91 89997 21536"
+  ],
+  "whatsapp": "https://api.whatsapp.com/send?phone=919545158108&text=Hello%20Team%20Chaitanya%27s%20Academy%2C%20I%20need%20help%20with%20Pre-Medical%20NEET%20UG%20coaching%20and%20would%20like%20to%20connect%20with%20a%20counsellor.",
+  "instagram": "https://www.instagram.com/chaitanyas_academy_official",
+  "facebook": "https://www.facebook.com/chaitanyasacademy.in",
+  "linkedin": "",
+  "platform": "WordPress",
+  "issues": "Baked-in text topper banner as hero; plain row of mismatched coloured buttons; generic WordPress layout.",
+  "pitch": "Modern results-led hero with clear course paths for MHT-CET, JEE and NEET.",
+  "screenshot": "shots/chaitanyas-academy.com.jpg",
+  "status": "New",
+  "notes": ""
+ },
+ {
+  "score": 4,
+  "name": "Goal Institute",
+  "website": "https://www.goalinstitute.org/",
+  "category": "JEE/NEET Coaching",
+  "city": "Patna",
+  "state": "",
+  "country": "India",
+  "emails": [
+   "goalpatna@gmail.com"
+  ],
+  "phones": [
+   "+91 61235 08700",
+   "+91 93345 94165"
+  ],
+  "whatsapp": "https://wa.me/919334594165",
+  "instagram": "https://www.instagram.com/goalinstituteofficial/",
+  "facebook": "https://www.facebook.com/goalinstituteofficial",
+  "linkedin": "https://www.linkedin.com/company/goal-education-services/?viewAsMember=true",
+  "platform": "Next.js",
+  "issues": "Large exam popup blocks entry; behind it cluttered multi-colour blocks and dense text, weak hero hierarchy.",
+  "pitch": "Replace popup clutter with a focused NEET/JEE hero, results strip and clear admission CTA.",
+  "screenshot": "shots/goalinstitute.org.jpg",
+  "status": "New",
+  "notes": ""
  },
  {
   "score": 4,
@@ -4159,6 +5726,35 @@
  },
  {
   "score": 4,
+  "name": "STEAM Works Studio",
+  "website": "https://www.steamworksstudio.com/",
+  "category": "Kids Coding & Robotics",
+  "city": "Indore",
+  "state": "",
+  "country": "India",
+  "emails": [
+   "info@steamworksstudio.com",
+   "infonnj@steamworksstudio.com",
+   "hudson@steamworksstudio.com"
+  ],
+  "phones": [
+   "+91 85578 32687",
+   "+91 97391 34336",
+   "+91 73280 01977"
+  ],
+  "whatsapp": "",
+  "instagram": "https://www.instagram.com/steamworksstudio_headquarters",
+  "facebook": "https://www.facebook.com/princetonsteamworksstudio",
+  "linkedin": "",
+  "platform": "Shopify",
+  "issues": "Collage slider with baked text; small cramped body copy; plain green box buttons.",
+  "pitch": "Create a playful, modern maker-studio site with clear locations and class booking.",
+  "screenshot": "shots/steamworksstudio.com.jpg",
+  "status": "New",
+  "notes": ""
+ },
+ {
+  "score": 4,
   "name": "Aristo Kids",
   "website": "https://aristokids.in/",
   "category": "Kids Learning Centre",
@@ -4205,6 +5801,59 @@
   "issues": "Wix hero mostly empty grey; tiny tagline and button; no visible logo or imagery.",
   "pitch": "Vibrant learning-centre hero with real photos and clear class offerings.",
   "screenshot": "shots/saplingsmdu.in.jpg",
+  "status": "New",
+  "notes": ""
+ },
+ {
+  "score": 4,
+  "name": "Bengal Music Academy",
+  "website": "https://www.bengalmusic.art/",
+  "category": "Music Academy",
+  "city": "Kolkata",
+  "state": "",
+  "country": "India",
+  "emails": [
+   "info@bengalmusic.art"
+  ],
+  "phones": [
+   "+91 90732 71344"
+  ],
+  "whatsapp": "",
+  "instagram": "https://www.instagram.com/ritayan_biswas/",
+  "facebook": "https://www.facebook.com/Ritayan.piano/",
+  "linkedin": "",
+  "platform": "Wix",
+  "issues": "Dated Wix template, thin fonts, tiny nav, small boxed image buttons, weak CTA.",
+  "pitch": "Refresh a dated Wix site into a warm, modern online music academy.",
+  "screenshot": "shots/bengalmusic.art.jpg",
+  "status": "New",
+  "notes": "copyright 2020"
+ },
+ {
+  "score": 4,
+  "name": "Cochin Waves",
+  "website": "https://www.cochinwaves.com/",
+  "category": "Music Academy",
+  "city": "Kochi",
+  "state": "",
+  "country": "India",
+  "emails": [
+   "mail@cochinwaves.com",
+   "cochinwaves@gmail.com",
+   "cochinwavesqtr@gmail.com"
+  ],
+  "phones": [
+   "+91 98460 02757",
+   "+91 64396 04475"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "facebook": "https://www.facebook.com/cochin.waves.9",
+  "linkedin": "https://in.linkedin.com/in/mammootty-k-s-14a6ab59",
+  "platform": "",
+  "issues": "Event photo as hero with no headline; dated magenta bar; small nav.",
+  "pitch": "Showcase 25 years of music, dance and art with a modern performance-led hero.",
+  "screenshot": "shots/cochinwaves.com.jpg",
   "status": "New",
   "notes": ""
  },
@@ -4288,28 +5937,28 @@
  },
  {
   "score": 4,
-  "name": "School",
-  "website": "https://www.bengalmusic.art/",
+  "name": "Saamaveda Music Academy",
+  "website": "https://www.saamavedamusicacademy.in/",
   "category": "Music Academy",
-  "city": "Kolkata",
+  "city": "Hyderabad",
   "state": "",
   "country": "India",
   "emails": [
-   "info@bengalmusic.art"
+   "contact@saamaveamusicacademy.in"
   ],
   "phones": [
-   "+91 90732 71344"
+   "+91 98665 13521"
   ],
-  "whatsapp": "",
-  "instagram": "https://www.instagram.com/ritayan_biswas/",
-  "facebook": "https://www.facebook.com/Ritayan.piano/",
+  "whatsapp": "https://api.whatsapp.com/send?phone=9866513521",
+  "instagram": "https://www.instagram.com/saamavedamusicacademy/",
+  "facebook": "https://m.facebook.com/saamavedamusicacademy/",
   "linkedin": "",
-  "platform": "Wix",
-  "issues": "Dated Wix template, thin fonts, tiny nav, small boxed image buttons, weak CTA.",
-  "pitch": "Refresh a dated Wix site into a warm, modern online music academy.",
-  "screenshot": "shots/bengalmusic.art.jpg",
+  "platform": "",
+  "issues": "Busy slider mixing graphics and photos; cramped icon tiles; inconsistent typography.",
+  "pitch": "Unify the look into a refined Carnatic academy with clear course selection.",
+  "screenshot": "shots/saamavedamusicacademy.in.jpg",
   "status": "New",
-  "notes": "copyright 2020"
+  "notes": "copyright 2023"
  },
  {
   "score": 4,
@@ -4358,6 +6007,57 @@
   "screenshot": "shots/tcsm.in.jpg",
   "status": "New",
   "notes": "slow load 9s"
+ },
+ {
+  "score": 4,
+  "name": "The Monkey Head Academy of Music",
+  "website": "https://www.themonkeyheadacademy.in/",
+  "category": "Music Academy",
+  "city": "Pune",
+  "state": "",
+  "country": "India",
+  "emails": [
+   "themonkeyheadacademy@gmail.com"
+  ],
+  "phones": [
+   "+91 96871 19928",
+   "+91 97905 51930"
+  ],
+  "whatsapp": "",
+  "instagram": "https://www.instagram.com/the.monkey.head.academy/",
+  "facebook": "https://www.facebook.com/the.monkey.head.academy",
+  "linkedin": "",
+  "platform": "Wix",
+  "issues": "Stacked all-caps title in dim box; no visible CTA; thin text; generic Wix layout.",
+  "pitch": "Create a bold, rock-studio vibe homepage with demo and jam-room booking CTAs.",
+  "screenshot": "shots/themonkeyheadacademy.in.jpg",
+  "status": "New",
+  "notes": ""
+ },
+ {
+  "score": 4,
+  "name": "Yazh Academy",
+  "website": "https://yazhacademy.com/",
+  "category": "Music Academy",
+  "city": "Chennai",
+  "state": "",
+  "country": "India",
+  "emails": [
+   "yazhmusic@gmail.com"
+  ],
+  "phones": [
+   "+91 98848 88286"
+  ],
+  "whatsapp": "",
+  "instagram": "https://instagram.com/yazhacademy2012?igshid=NTc4MTIwNjQ2YQ==",
+  "facebook": "https://www.facebook.com/yazh.prabakaran",
+  "linkedin": "",
+  "platform": "WordPress",
+  "issues": "Crowd photo hero with tiny low-contrast headline at bottom; no CTA; logo hidden.",
+  "pitch": "Bold readable hero with clear course choice and registration CTA.",
+  "screenshot": "shots/yazhacademy.com.jpg",
+  "status": "New",
+  "notes": ""
  },
  {
   "score": 4,
@@ -4433,6 +6133,32 @@
   "issues": "Slider with arrows, cluttered nav with 'New' tags, tiny logo, cut-out stock kids, chaotic layout.",
   "pitch": "Replace a cluttered slider homepage with a focused, trustworthy 1-on-1 tuition hero.",
   "screenshot": "shots/e-tuitions.com.jpg",
+  "status": "New",
+  "notes": ""
+ },
+ {
+  "score": 4,
+  "name": "Alphabet Institute of Creative Arts",
+  "website": "https://www.alphabeteducation.in/",
+  "category": "Phonics & Handwriting",
+  "city": "Pune",
+  "state": "",
+  "country": "India",
+  "emails": [
+   "info@alphabeteducation.in"
+  ],
+  "phones": [
+   "+91 78759 80862",
+   "+91 77670 96955"
+  ],
+  "whatsapp": "https://api.whatsapp.com/send?phone=9823637480&text=Hi",
+  "instagram": "",
+  "facebook": "https://www.facebook.com/alphabetinstitute/",
+  "linkedin": "",
+  "platform": "WordPress",
+  "issues": "Hero photo with no headline or CTA; logo tiny; generic WooCommerce product carousel.",
+  "pitch": "Brand-led storefront with clear handwriting-book value proposition and bestsellers.",
+  "screenshot": "shots/alphabeteducation.in.jpg",
   "status": "New",
   "notes": ""
  },
@@ -4541,6 +6267,33 @@
  },
  {
   "score": 4,
+  "name": "Phonics Mantra",
+  "website": "https://www.phonicsmantra.com/",
+  "category": "Phonics & Handwriting",
+  "city": "Pune",
+  "state": "",
+  "country": "India",
+  "emails": [
+   "ritu@phonicsmantra.com"
+  ],
+  "phones": [
+   "+91 97651 95559",
+   "+91 73853 20072",
+   "+91 88885 90072"
+  ],
+  "whatsapp": "https://wa.me/7385320072",
+  "instagram": "https://www.instagram.com/rvphonics/",
+  "facebook": "https://www.facebook.com/phonicsmantra",
+  "linkedin": "",
+  "platform": "WordPress",
+  "issues": "Flat grey hero with small clip-art bird; basic centered text and button; generic template.",
+  "pitch": "Bring warmth with real classroom photos and clear class/training paths.",
+  "screenshot": "shots/phonicsmantra.com.jpg",
+  "status": "New",
+  "notes": "copyright 2021"
+ },
+ {
+  "score": 4,
   "name": "Phonics Power",
   "website": "https://phonicspower.com/",
   "category": "Phonics & Handwriting",
@@ -4565,6 +6318,31 @@
   "screenshot": "shots/phonicspower.com.jpg",
   "status": "New",
   "notes": "slow load 14s"
+ },
+ {
+  "score": 4,
+  "name": "Cocomelon Kidz",
+  "website": "https://cocomelonkidz.com/",
+  "category": "Preschool",
+  "city": "Ranchi",
+  "state": "",
+  "country": "India",
+  "emails": [
+   "info@cocomelonkidz.com"
+  ],
+  "phones": [
+   "+91 92340 34757"
+  ],
+  "whatsapp": "https://wa.me/919234034757?text=Hi%20I%20would%20like%20to%20know%20more%20about%20Cocomelon%20Kidz%20Preschool",
+  "instagram": "https://www.instagram.com/thecocomelonkidz/",
+  "facebook": "https://www.facebook.com/cocomelonkidzranchi",
+  "linkedin": "",
+  "platform": "WordPress",
+  "issues": "Admission flyer popup on load; cartoon hero behind; flyer-style baked text.",
+  "pitch": "Replace flyer popup with a polished, photo-led preschool hero and admission form.",
+  "screenshot": "shots/cocomelonkidz.com.jpg",
+  "status": "New",
+  "notes": "copyright 2023"
  },
  {
   "score": 4,
@@ -4593,6 +6371,32 @@
  },
  {
   "score": 4,
+  "name": "Satellite School for Children",
+  "website": "https://satelliteschool.in/",
+  "category": "Preschool",
+  "city": "Ahmedabad",
+  "state": "",
+  "country": "India",
+  "emails": [
+   "info@satelliteschool.in"
+  ],
+  "phones": [
+   "+91 7971012440",
+   "+91 7971727192"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "facebook": "https://www.facebook.com/SatelliteSchool",
+  "linkedin": "",
+  "platform": "WordPress",
+  "issues": "Dated template header; baked-in award banner slider; small cramped nav.",
+  "pitch": "Modernise with a warm photo-led hero and clear admissions journey.",
+  "screenshot": "shots/satelliteschool.in.jpg",
+  "status": "New",
+  "notes": ""
+ },
+ {
+  "score": 4,
   "name": "Aliganj Montessori School",
   "website": "https://amslucknow.in/",
   "category": "Private School",
@@ -4611,6 +6415,84 @@
   "issues": "Poster-style admissions banner with baked text; crowded red top bar; empty notice board box.",
   "pitch": "Professional school site with clear sections for parents, admissions and notices.",
   "screenshot": "shots/amslucknow.in.jpg",
+  "status": "New",
+  "notes": ""
+ },
+ {
+  "score": 4,
+  "name": "Chhattisgarh Public School",
+  "website": "https://cpsraipur.com/",
+  "category": "Private School",
+  "city": "Raipur",
+  "state": "",
+  "country": "India",
+  "emails": [
+   "info@cpsraipur.com"
+  ],
+  "phones": [
+   "+91 97521 48000"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "facebook": "",
+  "linkedin": "",
+  "platform": "",
+  "issues": "Dark overlay buries building photo; small hero text, no CTA; grey header; cluttered top ticker",
+  "pitch": "Brighten and simplify with a bold headline, admissions CTA and better campus photography",
+  "screenshot": "shots/cpsraipur.com.jpg",
+  "status": "New",
+  "notes": ""
+ },
+ {
+  "score": 4,
+  "name": "R K Sarda Vidya Ashram",
+  "website": "https://rksva.org/",
+  "category": "Private School",
+  "city": "Raipur",
+  "state": "",
+  "country": "India",
+  "emails": [
+   "admin@arksva.org",
+   "admin@rksva.org",
+   "principal@rksva.org"
+  ],
+  "phones": [
+   "+91 62670 20803",
+   "+91 98267 17981"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "facebook": "https://www.facebook.com/rksva",
+  "linkedin": "",
+  "platform": "",
+  "issues": "Admission poster popup covers hero; cluttered top bar; generic slider with dark info boxes",
+  "pitch": "Replace poster popups with a modern hero and integrated admissions banner",
+  "screenshot": "shots/rksva.org.jpg",
+  "status": "New",
+  "notes": ""
+ },
+ {
+  "score": 4,
+  "name": "Saigrace Academy International",
+  "website": "https://saigraceacademy.com/",
+  "category": "Private School",
+  "city": "Dehradun",
+  "state": "",
+  "country": "India",
+  "emails": [
+   "info@saigraceacademy.com"
+  ],
+  "phones": [
+   "+91 73026 60052"
+  ],
+  "whatsapp": "https://wa.me/917302660052",
+  "instagram": "https://www.instagram.com/saiacademyinternational/",
+  "facebook": "https://www.facebook.com/saiacademyinternational",
+  "linkedin": "",
+  "platform": "WordPress",
+  "issues": "Ranking poster popup covers most of page; behind it a busy dark slider with baked-in text",
+  "pitch": "Present your Top-6 ranking inside a clean, modern hero instead of a blocking popup",
+  "screenshot": "shots/saigraceacademy.com.jpg",
   "status": "New",
   "notes": ""
  },
@@ -4915,6 +6797,35 @@
   "screenshot": "shots/aptiplus.in.jpg",
   "status": "New",
   "notes": "slow load 18s"
+ },
+ {
+  "score": 4,
+  "name": "DICS",
+  "website": "https://dics.co/",
+  "category": "UPSC/PSC Coaching",
+  "city": "Ahmedabad",
+  "state": "",
+  "country": "India",
+  "emails": [
+   "dics.upsc@gmail.com",
+   "dics.gnagar@gmail.com",
+   "dics.vadodara@gmail.com"
+  ],
+  "phones": [
+   "+91 84692 31587",
+   "+91 95860 28957",
+   "+91 97238 32444"
+  ],
+  "whatsapp": "https://api.whatsapp.com/send?phone=918469231587",
+  "instagram": "https://www.instagram.com/dicsgujarat/",
+  "facebook": "https://www.facebook.com/dics4upsc",
+  "linkedin": "",
+  "platform": "",
+  "issues": "No imagery in hero; plain card with stat boxes; tiny cramped nav; generic flat look.",
+  "pitch": "Give Gujarat's UPSC institute an authoritative, image-led hero with clear programme CTAs.",
+  "screenshot": "shots/dics.co.jpg",
+  "status": "New",
+  "notes": ""
  },
  {
   "score": 4,

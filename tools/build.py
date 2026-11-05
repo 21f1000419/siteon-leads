@@ -18,8 +18,15 @@ for f in sorted(glob.glob(D('data/ratings_*.jsonl'))):
         if l.startswith('{'):
             try: r = json.loads(l); ratings[r['host'].removeprefix('www.')] = r
             except Exception: pass
+OV = json.load(open(D('data/overrides.json'))) if os.path.exists(D('data/overrides.json')) else {}
+GENERIC = re.compile(r'^(best|top|no\.?\s?1|#1|home|welcome|online|learn|join|get|music school|school|index)\b', re.I)
 def clean_name(r, c):
+    if OV.get(r['host'], {}).get('name'): return OV[r['host']]['name']
     n = (c or {}).get('name') or ''
+    if not n or GENERIC.match(n):
+        segs = [x.strip() for x in re.split(r'\s[|\-–:»]\s|\s\|\s?', r.get('title') or '') if x.strip()]
+        good = [x for x in segs if not GENERIC.match(x) and 2 < len(x) < 45]
+        if good: n = min(good, key=len) if len(good) > 1 and len(good[0]) > 40 else good[0]
     if not n:
         t = re.split(r'\s[|\-–:»]\s', r.get('title') or '')[0].strip()
         n = t if 2 < len(t) < 60 else r['host']
@@ -45,7 +52,8 @@ os.makedirs(D('docs/shots'), exist_ok=True)
 leads = []; need_thumbs = []
 for host, rt in ratings.items():
     r = scraped.get(host)
-    if not r or not rt.get('keep') or not (1 <= int(rt.get('score', 10)) <= MAXSCORE): continue
+    if host in OV and OV[host].get('drop'): continue
+    if not r or not rt.get('keep') or not (2 <= int(rt.get('score', 10)) <= MAXSCORE): continue
     c = cands.get(host) or next((v for k, v in cands.items() if host.endswith(k) or k.startswith(host)), {})
     phones, seen = [], set()
     for p in r.get('phones', []):
