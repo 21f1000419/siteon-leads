@@ -1,0 +1,6 @@
+node_modules/
+shots/
+sheets/
+data/serp.jsonl
+data/serp.log
+*.log

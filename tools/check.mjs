@@ -1,0 +1,12 @@
+import { chromium } from 'playwright';
+const b = await chromium.launch(); const p = await b.newPage({ viewport: { width: 1400, height: 900 } });
+const errs = []; p.on('console', m => m.type() === 'error' && errs.push(m.text())); p.on('pageerror', e => errs.push(e.message));
+await p.goto('http://localhost:8765/'); await p.waitForTimeout(2500);
+await p.screenshot({ path: '/tmp/site_light.png' });
+await p.evaluate(() => { localStorage.theme = 'dark'; }); await p.reload(); await p.waitForTimeout(2000);
+await p.click('tbody tr:nth-child(3)'); await p.waitForTimeout(800); await p.screenshot({ path: '/tmp/site_dark_dlg.png' });
+await p.keyboard.press('Escape'); await p.fill('#q', 'abacus'); await p.waitForTimeout(300);
+console.log('rows after search', await p.$$eval('tbody tr', r => r.length), 'meta:', await p.textContent('#meta'));
+const [dl] = await Promise.all([p.waitForEvent('download'), p.click('#csv')]); await dl.saveAs('/tmp/test.csv');
+await p.setViewportSize({ width: 390, height: 844 }); await p.fill('#q', ''); await p.waitForTimeout(300); await p.screenshot({ path: '/tmp/site_mobile.png' });
+console.log('errors', errs); await b.close();

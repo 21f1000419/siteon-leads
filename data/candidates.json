@@ -1,0 +1,4562 @@
+[
+{
+"url": "https://genefite.com/",
+"name": "GENEFITE Career Academy",
+"category": "JEE/NEET Coaching",
+"city": "Jaipur",
+"country": "India",
+"src": "agent_coaching.tsv"
+},
+{
+"url": "https://brilliantcareerinstitute.in/",
+"name": "Brilliant Career Institute",
+"category": "JEE/NEET Coaching",
+"city": "Jaipur",
+"country": "India",
+"src": "agent_coaching.tsv"
+},
+{
+"url": "https://guidemytalent.com/",
+"name": "Guide My Talent",
+"category": "JEE/NEET Coaching",
+"city": "Jaipur",
+"country": "India",
+"src": "agent_coaching.tsv"
+},
+{
+"url": "https://www.vsijaipur.com/",
+"name": "VSI Jaipur",
+"category": "Commerce/CA Coaching",
+"city": "Jaipur",
+"country": "India",
+"src": "agent_coaching.tsv"
+},
+{
+"url": "https://mccjpr.com/",
+"name": "Mittal Commerce Classes",
+"category": "Commerce/CA Coaching",
+"city": "Jaipur",
+"country": "India",
+"src": "agent_coaching.tsv"
+},
+{
+"url": "https://springboardindia.org/",
+"name": "Springboard Academy",
+"category": "UPSC/PSC Coaching",
+"city": "Jaipur",
+"country": "India",
+"src": "agent_coaching.tsv"
+},
+{
+"url": "https://doondefencedreamers.com/",
+"name": "Doon Defence Dreamers",
+"category": "Govt Exam Coaching",
+"city": "Dehradun",
+"country": "India",
+"src": "agent_coaching.tsv"
+},
+{
+"url": "https://chanakyadefencecollege.com/",
+"name": "Chanakya Defence College",
+"category": "Govt Exam Coaching",
+"city": "Dehradun",
+"country": "India",
+"src": "agent_coaching.tsv"
+},
+{
+"url": "https://dehradundefenceacademy.com/",
+"name": "Dehradun Defence Academy",
+"category": "Govt Exam Coaching",
+"city": "Dehradun",
+"country": "India",
+"src": "agent_coaching.tsv"
+},
+{
+"url": "https://therankersacademy.com/",
+"name": "The Rankers Academy",
+"category": "JEE/NEET Coaching",
+"city": "Nagpur",
+"country": "India",
+"src": "agent_coaching.tsv"
+},
+{
+"url": "https://chaitanyas-academy.com/",
+"name": "Chaitanya's Academy",
+"category": "JEE/NEET Coaching",
+"city": "Ranchi",
+"country": "India",
+"src": "agent_coaching.tsv"
+},
+{
+"url": "https://www.goalinstitute.org/",
+"name": "Goal Institute",
+"category": "JEE/NEET Coaching",
+"city": "Patna",
+"country": "India",
+"src": "agent_coaching.tsv"
+},
+{
+"url": "https://mentorsedu.com/",
+"name": "Mentors Eduserv",
+"category": "JEE/NEET Coaching",
+"city": "Patna",
+"country": "India",
+"src": "agent_coaching.tsv"
+},
+{
+"url": "https://doctorsinstitute0.blogspot.com",
+"name": "Doctor's Institute",
+"category": "JEE/NEET Coaching",
+"city": "Patna",
+"country": "India",
+"src": "agent_coaching.tsv"
+},
+{
+"url": "https://alokmanclasses.netlify.app",
+"name": "Alokman Classes",
+"category": "School Tuition Centre",
+"city": "Surat",
+"country": "India",
+"src": "agent_coaching.tsv"
+},
+{
+"url": "https://vishnudamwala.netlify.app",
+"name": "VD Computer Tuition (Vishnu Damwala)",
+"category": "School Tuition Centre",
+"city": "Surat",
+"country": "India",
+"src": "agent_coaching.tsv"
+},
+{
+"url": "https://spcfrajkot.org/",
+"name": "Patidar IAS Academy (SPCF)",
+"category": "UPSC/PSC Coaching",
+"city": "Rajkot",
+"country": "India",
+"src": "agent_coaching.tsv"
+},
+{
+"url": "https://dics.co/",
+"name": "DICS",
+"category": "UPSC/PSC Coaching",
+"city": "Ahmedabad",
+"country": "India",
+"src": "agent_coaching.tsv"
+},
+{
+"url": "https://cgiguruchandigarh.blogspot.com",
+"name": "Competition Guru",
+"category": "CLAT/MBA Coaching",
+"city": "Chandigarh",
+"country": "India",
+"src": "agent_coaching.tsv"
+},
+{
+"url": "https://www.lawpreptutorial.com/",
+"name": "Law Prep Tutorial",
+"category": "CLAT/MBA Coaching",
+"city": "Bhopal",
+"country": "India",
+"src": "agent_coaching.tsv"
+},
+{
+"url": "https://www.aptiplus.in/",
+"name": "APTI PLUS Academy",
+"category": "UPSC/PSC Coaching",
+"city": "Bhubaneswar",
+"country": "India",
+"src": "agent_coaching.tsv"
+},
+{
+"url": "https://www.talentkerala.com/",
+"name": "Talent Academy",
+"category": "UPSC/PSC Coaching",
+"city": "Kochi",
+"country": "India",
+"src": "agent_coaching.tsv"
+},
+{
+"url": "https://clclive.in/",
+"name": "CLC Institute",
+"category": "JEE/NEET Coaching",
+"city": "Sikar",
+"country": "India",
+"src": "agent_coaching.tsv"
+},
+{
+"url": "https://pcpsikar.com/",
+"name": "PCP Sikar",
+"category": "JEE/NEET Coaching",
+"city": "Sikar",
+"country": "India",
+"src": "agent_coaching.tsv"
+},
+{
+"url": "https://www.navjeevanneetacademy.org/",
+"name": "Navjeevan NEET Academy",
+"category": "JEE/NEET Coaching",
+"city": "Sikar",
+"country": "India",
+"src": "agent_coaching.tsv"
+},
+{
+"url": "https://www.chemzone.org/",
+"name": "Chemzone Chemistry Classes",
+"category": "JEE/NEET Coaching",
+"city": "Ludhiana",
+"country": "India",
+"src": "agent_coaching.tsv"
+},
+{
+"url": "https://icc-sahnewal.pages.dev",
+"name": "ICC Sahnewal (Er. Daljit Singh)",
+"category": "School Tuition Centre",
+"city": "Ludhiana",
+"country": "India",
+"src": "agent_coaching.tsv"
+},
+{
+"url": "https://ascentudaipur.com/",
+"name": "Ascent Career Point",
+"category": "JEE/NEET Coaching",
+"city": "Udaipur",
+"country": "India",
+"src": "agent_coaching.tsv"
+},
+{
+"url": "https://royalinstituteofcompetitionudaipur.blogspot.com",
+"name": "Royal Institute of Competition",
+"category": "JEE/NEET Coaching",
+"city": "Udaipur",
+"country": "India",
+"src": "agent_coaching.tsv"
+},
+{
+"url": "https://iitianspace.com/",
+"name": "IITian's Pace",
+"category": "JEE/NEET Coaching",
+"city": "Mumbai",
+"country": "India",
+"src": "agent_coaching.tsv"
+},
+{
+"url": "https://abhaypatilacademy.com/",
+"name": "Abhay Patil Academy",
+"category": "UPSC/PSC Coaching",
+"city": "Kolhapur",
+"country": "India",
+"src": "agent_coaching.tsv"
+},
+{
+"url": "https://aunitedacademy.blogspot.com",
+"name": "United Academy",
+"category": "UPSC/PSC Coaching",
+"city": "Madurai",
+"country": "India",
+"src": "agent_coaching.tsv"
+},
+{
+"url": "https://kpriasacademy.blogspot.com",
+"name": "KPR IAS Academy",
+"category": "UPSC/PSC Coaching",
+"city": "Coimbatore",
+"country": "India",
+"src": "agent_coaching.tsv"
+},
+{
+"url": "https://paripoornadigital.com/",
+"name": "Paripoorna Academy",
+"category": "JEE/NEET Coaching",
+"city": "Trichy",
+"country": "India",
+"src": "agent_coaching.tsv"
+},
+{
+"url": "https://krishnainstitutetrichy.blogspot.com",
+"name": "Krishna Institute",
+"category": "JEE/NEET Coaching",
+"city": "Trichy",
+"country": "India",
+"src": "agent_coaching.tsv"
+},
+{
+"url": "https://classes-gules-five.vercel.app",
+"name": "Parth Classes",
+"category": "School Tuition Centre",
+"city": "Panvel",
+"country": "India",
+"src": "agent_coaching.tsv"
+},
+{
+"url": "https://aarambhaclasses.vercel.app",
+"name": "Aarambha Classes",
+"category": "School Tuition Centre",
+"city": "Nashik",
+"country": "India",
+"src": "agent_coaching.tsv"
+},
+{
+"url": "https://riceeducation.in/",
+"name": "RICE Education Academy",
+"category": "Govt Exam Coaching",
+"city": "Siliguri",
+"country": "India",
+"src": "agent_coaching.tsv"
+},
+{
+"url": "https://studyxpress.co.in/",
+"name": "Study Xpress",
+"category": "UPSC/PSC Coaching",
+"city": "Siliguri",
+"country": "India",
+"src": "agent_coaching.tsv"
+},
+{
+"url": "https://thedhronas.com/",
+"name": "The Dhronas",
+"category": "UPSC/PSC Coaching",
+"city": "Siliguri",
+"country": "India",
+"src": "agent_coaching.tsv"
+},
+{
+"url": "https://avision.co.in/",
+"name": "Avision Institute",
+"category": "Govt Exam Coaching",
+"city": "Siliguri",
+"country": "India",
+"src": "agent_coaching.tsv"
+},
+{
+"url": "https://spmiasacademy.com/",
+"name": "SPM IAS Academy",
+"category": "UPSC/PSC Coaching",
+"city": "Guwahati",
+"country": "India",
+"src": "agent_coaching.tsv"
+},
+{
+"url": "https://www.etenias.com/",
+"name": "Eten IAS",
+"category": "UPSC/PSC Coaching",
+"city": "Vijayawada",
+"country": "India",
+"src": "agent_coaching.tsv"
+},
+{
+"url": "https://amoghavarshaiaskas.in/",
+"name": "Amoghavarsha IAS/KAS Academy",
+"category": "UPSC/PSC Coaching",
+"city": "Mysore",
+"country": "India",
+"src": "agent_coaching.tsv"
+},
+{
+"url": "https://kritavidyaias.com/",
+"name": "Kritavidya IAS Academy",
+"category": "UPSC/PSC Coaching",
+"city": "Mysore",
+"country": "India",
+"src": "agent_coaching.tsv"
+},
+{
+"url": "https://icsta.in/",
+"name": "Indian Civil Services Training Academy",
+"category": "UPSC/PSC Coaching",
+"city": "Mysore",
+"country": "India",
+"src": "agent_coaching.tsv"
+},
+{
+"url": "https://www.kvcacademy.in/",
+"name": "KVC Academy",
+"category": "Commerce/CA Coaching",
+"city": "Mangalore",
+"country": "India",
+"src": "agent_coaching.tsv"
+},
+{
+"url": "https://sanjeevrathore121.blogspot.com",
+"name": "Sanjeev Rathore Coaching Centre",
+"category": "JEE/NEET Coaching",
+"city": "Kanpur",
+"country": "India",
+"src": "agent_coaching.tsv"
+},
+{
+"url": "https://gyan-setu-saas.vercel.app",
+"name": "Gyan Setu Home Tuition",
+"category": "School Tuition Centre",
+"city": "Kanpur",
+"country": "India",
+"src": "agent_coaching.tsv"
+},
+{
+"url": "https://www.mathcruise.com/",
+"name": "Mathcruise",
+"category": "Abacus & Vedic Maths",
+"city": "Delhi",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://www.abacustrainer.com/",
+"name": "Abacus Trainer",
+"category": "Abacus & Vedic Maths",
+"city": "Online",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://www.cpabacus.com/",
+"name": "Career Point Abacus Academy",
+"category": "Abacus & Vedic Maths",
+"city": "Nagpur",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://calibre-academy-abacus.grexa.site/",
+"name": "Calibre Academy Abacus & Vedic Maths",
+"category": "Abacus & Vedic Maths",
+"city": "Nagpur",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://abacusclassesonline.com/",
+"name": "Roots Abacus & Vedic Math",
+"category": "Abacus & Vedic Maths",
+"city": "Online",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://iiva.in/",
+"name": "IIVA Vedic Maths and Abacus",
+"category": "Abacus & Vedic Maths",
+"city": "Online",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://sateeshacademy.in/",
+"name": "Sateesh Academy",
+"category": "Abacus & Vedic Maths",
+"city": "Surat",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://www.impetusclasses.com/",
+"name": "Impetus Abacus & Vedic Math",
+"category": "Abacus & Vedic Maths",
+"city": "Online",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://www.kidsbrainabacus.in/",
+"name": "Kids Brain Academy",
+"category": "Abacus & Vedic Maths",
+"city": "Pune",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://rbvedicmaths.in/",
+"name": "Proactive Abacus (RB Vedic Maths)",
+"category": "Abacus & Vedic Maths",
+"city": "Online",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://www.brainbay.in/",
+"name": "The Brainbay",
+"category": "Abacus & Vedic Maths",
+"city": "Chennai",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://coimbatoreculturalacademy.com/",
+"name": "Coimbatore Cultural Academy",
+"category": "Kids Learning Centre",
+"city": "Coimbatore",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://www.winaumlearning.com/",
+"name": "Winaum Learning",
+"category": "Abacus & Vedic Maths",
+"city": "Chandigarh",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://www.brainexeducation.com/",
+"name": "Brainex Education",
+"category": "Abacus & Vedic Maths",
+"city": "Mohali",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://abacusandvedicmaths.com/",
+"name": "Abacus and Vedic Maths",
+"category": "Abacus & Vedic Maths",
+"city": "Online",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://abacushubacademy.in/",
+"name": "Abacus Hub Academy",
+"category": "Abacus & Vedic Maths",
+"city": "Raipur",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://www.ncitraipur.com/",
+"name": "NCIT Raipur (Abacus Classes)",
+"category": "Abacus & Vedic Maths",
+"city": "Raipur",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://cleverbrainsryp.in/",
+"name": "Clever Brains",
+"category": "Abacus & Vedic Maths",
+"city": "Raipur",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://brainiacgym.com/",
+"name": "BrainiacGym Academy of Abacus",
+"category": "Abacus & Vedic Maths",
+"city": "Indore",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://mastermindabacusodisha.com/",
+"name": "Mastermind Abacus",
+"category": "Abacus & Vedic Maths",
+"city": "Bhubaneswar",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://hobbydobby.in/",
+"name": "Hobby Dobby",
+"category": "Kids Learning Centre",
+"city": "Bhubaneswar",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://indianabacusacademy.com/",
+"name": "Indian Abacus Academy",
+"category": "Abacus & Vedic Maths",
+"city": "Online",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://abacuschampsacademy.com/",
+"name": "Abacus Champs Academy",
+"category": "Abacus & Vedic Maths",
+"city": "Ranchi",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://starkidacademy.in/",
+"name": "Little Star Kid Academy",
+"category": "Abacus & Vedic Maths",
+"city": "Ranchi",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://concept-of-maths.vercel.app",
+"name": "Concept of Maths",
+"category": "Abacus & Vedic Maths",
+"city": "Ranchi",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://abacus-vedicmaths.com/",
+"name": "AVAS Abacus and Vedic Arithmetics Study",
+"category": "Abacus & Vedic Maths",
+"city": "Online",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://maths-n-abacus.co.in/",
+"name": "Maths-n-Abacus",
+"category": "Abacus & Vedic Maths",
+"city": "Online",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://e4easycalculations.com/",
+"name": "Aryabhata Abacus & Vedic Maths Academy",
+"category": "Abacus & Vedic Maths",
+"city": "Noida",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://amaabacus.com/",
+"name": "Abacus D Maths Academy",
+"category": "Abacus & Vedic Maths",
+"city": "Jaipur",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://www.vamaabacus.com/",
+"name": "Vama Abacus",
+"category": "Abacus & Vedic Maths",
+"city": "Visakhapatnam",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://braincarve.co.in/",
+"name": "Brain Carve",
+"category": "Abacus & Vedic Maths",
+"city": "Mysore",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://www.mathjunior.in/",
+"name": "Math Junior",
+"category": "Abacus & Vedic Maths",
+"city": "Mysore",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://iqplusacademy.com/",
+"name": "IQ Plus Academy",
+"category": "Abacus & Vedic Maths",
+"city": "Mysore",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://smartenlivenmemory.com/",
+"name": "STEM Abacus Academy",
+"category": "Abacus & Vedic Maths",
+"city": "Trichy",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://www.kayalacademy.com/",
+"name": "Kayal Academy",
+"category": "Abacus & Vedic Maths",
+"city": "Trichy",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://www.saplingsmdu.in/",
+"name": "Saplings",
+"category": "Kids Learning Centre",
+"city": "Madurai",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://smmmontessori.com/",
+"name": "SMM Montessori Abacus Centre",
+"category": "Abacus & Vedic Maths",
+"city": "Trichy",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://www.brainy.co.in/",
+"name": "Brainy India",
+"category": "Abacus & Vedic Maths",
+"city": "Rajkot",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://shreebrainscreativity.com/",
+"name": "Shree Brains Creativity",
+"category": "Abacus & Vedic Maths",
+"city": "Rajkot",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://www.juniorjunction.in/",
+"name": "Junior Junction",
+"category": "Kids Learning Centre",
+"city": "Ahmedabad",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://www.whizzkidzsabacus.com/",
+"name": "Whizz Kidzs Abacus",
+"category": "Abacus & Vedic Maths",
+"city": "Mumbai",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://geniuspark.in/",
+"name": "GeniuSpark Academy",
+"category": "Abacus & Vedic Maths",
+"city": "Ahmedabad",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://brainpowerabacus.com/",
+"name": "Brain Power Academy",
+"category": "Abacus & Vedic Maths",
+"city": "Bangalore",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://www.aceurmath.com/",
+"name": "Aceurmath",
+"category": "Abacus & Vedic Maths",
+"city": "Bangalore",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://smartkidsabacuslea.wixsite.com/abacusclasses",
+"name": "Smart Kids Abacus Learning",
+"category": "Abacus & Vedic Maths",
+"city": "Ghaziabad",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://imaxacademy.com/",
+"name": "I Max Academy",
+"category": "Kids Learning Centre",
+"city": "Ahmedabad",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://aristokids.in/",
+"name": "Aristo Kids",
+"category": "Kids Learning Centre",
+"city": "Delhi",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://excelmindacademy.com/",
+"name": "Excel Mind Academy",
+"category": "Olympiad",
+"city": "Delhi",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://dksacademy.com/",
+"name": "DKS Academy",
+"category": "Olympiad",
+"city": "Online",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://www.buzzybrainsacademy.com/",
+"name": "BuzzyBrains Academy",
+"category": "Olympiad",
+"city": "Pune",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://indianonlineschool.com/",
+"name": "Indian Online School",
+"category": "Olympiad",
+"city": "Online",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://acecbse.com/",
+"name": "ACE CBSE Tuition",
+"category": "Olympiad",
+"city": "Online",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://www.sofolympiadtrainer.com/",
+"name": "SOF Olympiad Trainer",
+"category": "Olympiad",
+"city": "Online",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://vaagaacademy.com/",
+"name": "VaaGa Academy",
+"category": "Olympiad",
+"city": "Noida",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://www.olympiadsuccess.com/",
+"name": "Olympiad Success",
+"category": "Olympiad",
+"city": "Online",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://kingdomofchess.com/",
+"name": "Kingdom of Chess",
+"category": "Chess Academy",
+"city": "Pune",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://chennaichessclub.in/",
+"name": "Chennai Chess Club",
+"category": "Chess Academy",
+"city": "Chennai",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://krisshchessacademy.com/",
+"name": "Krissh Chess Academy",
+"category": "Chess Academy",
+"city": "Chennai",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://sathurangachanakyan.com/",
+"name": "Sathuranga Chanakyan",
+"category": "Chess Academy",
+"city": "Chennai",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://www.vbschessacademy.com/",
+"name": "VBS Chess Academy",
+"category": "Chess Academy",
+"city": "Chennai",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://www.time2chess.com/",
+"name": "Time2Chess",
+"category": "Chess Academy",
+"city": "Chennai",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://chesskidoo.com/",
+"name": "ChessKidoo",
+"category": "Chess Academy",
+"city": "Erode",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://bengaluru.chessklub.com/",
+"name": "ChessKlub Bengaluru",
+"category": "Chess Academy",
+"city": "Bangalore",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://www.chess-saga.com/",
+"name": "Chess SaGa",
+"category": "Chess Academy",
+"city": "Bangalore",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://junior-masters.com/",
+"name": "Junior Masters",
+"category": "Chess Academy",
+"city": "Bangalore",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://www.zugzwang.in/",
+"name": "Zugzwang",
+"category": "Chess Academy",
+"city": "Bangalore",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://chesseasy.com/",
+"name": "ChessEasy Academy",
+"category": "Chess Academy",
+"city": "Bangalore",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://chessensei.com/",
+"name": "Chessensei",
+"category": "Chess Academy",
+"city": "Bangalore",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://chandigarhchess.com/",
+"name": "Chandigarh Chess Academy",
+"category": "Chess Academy",
+"city": "Chandigarh",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://chesswize.com/",
+"name": "ChessWize",
+"category": "Chess Academy",
+"city": "Online",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://www.hyderabadchess.com/",
+"name": "Hyderabad Chess Academy",
+"category": "Chess Academy",
+"city": "Hyderabad",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://roychessacademy.com/",
+"name": "Roy Chess Academy",
+"category": "Chess Academy",
+"city": "Hyderabad",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://venturechessacademy.com/",
+"name": "Venture Chess Academy",
+"category": "Chess Academy",
+"city": "Hyderabad",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://www.hyderabadchessschool.com/",
+"name": "Hyderabad Chess School",
+"category": "Chess Academy",
+"city": "Hyderabad",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://crgca.in/",
+"name": "CRG Chess Academy",
+"category": "Chess Academy",
+"city": "Hyderabad",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://lvschessacademy.com/",
+"name": "LVS Chess Academy",
+"category": "Chess Academy",
+"city": "Hyderabad",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://kingchessacademy.com/",
+"name": "Kings' Chess Academy",
+"category": "Chess Academy",
+"city": "Hyderabad",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://velocitychessacademy.in/",
+"name": "Velocity Chess Academy",
+"category": "Chess Academy",
+"city": "Hyderabad",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://adaminischool.com/",
+"name": "Achievers Destination Academy (ADA)",
+"category": "Kids Learning Centre",
+"city": "Hyderabad",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://envisionchessacademy.com/",
+"name": "Envision Chess Academy",
+"category": "Chess Academy",
+"city": "Kolkata",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://kolkatachessinstitute.in/",
+"name": "Kolkata Chess Institute",
+"category": "Chess Academy",
+"city": "Kolkata",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://biratichessacademy.blogspot.com",
+"name": "Birati Chess Academy",
+"category": "Chess Academy",
+"city": "Kolkata",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://sunshinechessacademy.in/",
+"name": "Sunshine Chess Academy",
+"category": "Chess Academy",
+"city": "Kolkata",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://kolkatachessacademy.in/",
+"name": "AspireChess",
+"category": "Chess Academy",
+"city": "Kolkata",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://chessvisionaries.com/",
+"name": "Chess Visionaries",
+"category": "Chess Academy",
+"city": "Thane",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://chessacademy.co.in/",
+"name": "Joshi's Chess Academy",
+"category": "Chess Academy",
+"city": "Thane",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://www.playchessacademies.com/",
+"name": "Play Chess Academy",
+"category": "Chess Academy",
+"city": "Mumbai",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://funchessclasses.com/",
+"name": "FUN Chess Classes",
+"category": "Chess Academy",
+"city": "Mumbai",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://westernchessacademy.com/",
+"name": "Western Chess Academy",
+"category": "Chess Academy",
+"city": "Navi Mumbai",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://chessniti.com/",
+"name": "Chessniti - The Professional Chess Academy",
+"category": "Chess Academy",
+"city": "Mumbai",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://indianchessschool.com/",
+"name": "Indian Chess School",
+"category": "Chess Academy",
+"city": "Mumbai",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://noidachessacademy.com/",
+"name": "Noida Chess Academy",
+"category": "Chess Academy",
+"city": "Noida",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://kaabilkids.com/",
+"name": "Kaabil Kids",
+"category": "Chess Academy",
+"city": "Online",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://juniorengineers.co.in/",
+"name": "Junior Engineers",
+"category": "Kids Coding & Robotics",
+"city": "Ahmedabad",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://robotrix.in/",
+"name": "Robotrix India",
+"category": "Kids Coding & Robotics",
+"city": "Ahmedabad",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://www.robonautsindia.com/",
+"name": "Robonauts India",
+"category": "Kids Coding & Robotics",
+"city": "Online",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://brainskool.in/",
+"name": "Brain Skool",
+"category": "Kids Coding & Robotics",
+"city": "Jaipur",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://www.careeredgeinstitute.in/",
+"name": "Career Edge IT Institute",
+"category": "Kids Coding & Robotics",
+"city": "Jaipur",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://thirdeyeclasses.com/",
+"name": "Thirdeye Computer Classes",
+"category": "Kids Coding & Robotics",
+"city": "Jaipur",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://www.maxphi.com/",
+"name": "MaxPhi Robotics",
+"category": "Kids Coding & Robotics",
+"city": "Jaipur",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://www.samyakinfotech.com/",
+"name": "Samyak Computer Classes",
+"category": "Kids Coding & Robotics",
+"city": "Jaipur",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://www.cyborgrobotics.in/",
+"name": "Cyborg Robotics Academy",
+"category": "Kids Coding & Robotics",
+"city": "Pune",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://www.robokidz.co.in/",
+"name": "Robokidz",
+"category": "Kids Coding & Robotics",
+"city": "Online",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://10xtechclub.com/",
+"name": "10xTechClub",
+"category": "Kids Coding & Robotics",
+"city": "Pune",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://quantumroot.in/",
+"name": "QuantumRoot",
+"category": "Kids Coding & Robotics",
+"city": "Pune",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://www.stemcenterace.com/",
+"name": "STEM Center ACE",
+"category": "Kids Coding & Robotics",
+"city": "Online",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://www.mechatronrobotics.com/",
+"name": "Mechatron Robotics",
+"category": "Kids Coding & Robotics",
+"city": "Pune",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://scilindia.org/",
+"name": "SCIL STEM Center",
+"category": "Kids Coding & Robotics",
+"city": "Pune",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://www.codebotix.in/",
+"name": "CodeBotix",
+"category": "Kids Coding & Robotics",
+"city": "Chennai",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://ashtrix.in/",
+"name": "Ashtrix Robotics",
+"category": "Kids Coding & Robotics",
+"city": "Chennai",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://www.diyalabs.com/",
+"name": "DIYA Labs",
+"category": "Kids Coding & Robotics",
+"city": "Chennai",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://www.staarkrobotics.com/",
+"name": "Staark Robotics",
+"category": "Kids Coding & Robotics",
+"city": "Chennai",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://skilzlearn.com/",
+"name": "Skilzlearn",
+"category": "Kids Coding & Robotics",
+"city": "Coimbatore",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://www.electrobotics.in/",
+"name": "ElectroBotics",
+"category": "Kids Coding & Robotics",
+"city": "Chennai",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://www.irobochakra.com/",
+"name": "iRobochakra",
+"category": "Kids Coding & Robotics",
+"city": "Coimbatore",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://www.youngovator.com/",
+"name": "Youngovator",
+"category": "Kids Coding & Robotics",
+"city": "Indore",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://www.steamworksstudio.com/",
+"name": "STEAM Works Studio",
+"category": "Kids Coding & Robotics",
+"city": "Indore",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://leapcoderz.com/",
+"name": "Leapcoderz",
+"category": "Kids Coding & Robotics",
+"city": "Lucknow",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://littlegeniusrobotic.com/",
+"name": "Little Genius Robotics",
+"category": "Kids Coding & Robotics",
+"city": "Lucknow",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://grafitiexpressions.com/",
+"name": "Grafiti Expressions",
+"category": "Phonics & Handwriting",
+"city": "Pune",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://www.alphabeteducation.in/",
+"name": "Alphabet Institute of Creative Arts",
+"category": "Phonics & Handwriting",
+"city": "Pune",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://www.handwritingclasses.in/",
+"name": "HandwritingClasses.in",
+"category": "Phonics & Handwriting",
+"city": "Online",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://callistyle.in/",
+"name": "Callistyle",
+"category": "Phonics & Handwriting",
+"city": "Online",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://www.phonicsmantra.com/",
+"name": "Phonics Mantra",
+"category": "Phonics & Handwriting",
+"city": "Pune",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://komalgoenka.com/",
+"name": "Komal Goenka Phonics",
+"category": "Phonics & Handwriting",
+"city": "Online",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://www.phonickids.com/",
+"name": "Phonic Kids",
+"category": "Phonics & Handwriting",
+"city": "Mumbai",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://www.phonicchamps.com/",
+"name": "Phonic Champs",
+"category": "Phonics & Handwriting",
+"city": "Chennai",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://boonde.in/",
+"name": "Boonde Phonics",
+"category": "Phonics & Handwriting",
+"city": "Gurgaon",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://www.phonicsestore.com/",
+"name": "Phonics eStore (Jolly Learning)",
+"category": "Phonics & Handwriting",
+"city": "Mumbai",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://phonicspower.com/",
+"name": "Phonics Power",
+"category": "Phonics & Handwriting",
+"city": "Chennai",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://kidsphonics.in/",
+"name": "Kids Phonics & Jolly Juniors",
+"category": "Phonics & Handwriting",
+"city": "Chennai",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://creativemindsacademy.in/",
+"name": "Creative Minds Academy",
+"category": "Phonics & Handwriting",
+"city": "Online",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://www.jollyclassroom.com/",
+"name": "Jolly Classroom",
+"category": "Phonics & Handwriting",
+"city": "Online",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://www.jollyphonics.in/",
+"name": "Jolly Phonics Teaching-Training",
+"category": "Phonics & Handwriting",
+"city": "Online",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://iih.org.in/",
+"name": "Indian Institute of Handwriting",
+"category": "Phonics & Handwriting",
+"city": "Kochi",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://myarisenshine.com/",
+"name": "MyBeeClub (Arisen Shine)",
+"category": "Phonics & Handwriting",
+"city": "Online",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://www.younglabs.in/",
+"name": "Younglabs",
+"category": "Phonics & Handwriting",
+"city": "Online",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://aj-academy.in/",
+"name": "AJ Academy",
+"category": "Phonics & Handwriting",
+"city": "Chennai",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://maademy.com/",
+"name": "Maademy",
+"category": "Phonics & Handwriting",
+"city": "Delhi",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://cursiveclasses.in/",
+"name": "Cursive Classes",
+"category": "Phonics & Handwriting",
+"city": "Online",
+"country": "India",
+"src": "agent_kids.tsv"
+},
+{
+"url": "https://www.edukids.in/",
+"name": "Edukids Play School",
+"category": "Preschool",
+"city": "Jaipur",
+"country": "India",
+"src": "agent_schools.tsv"
+},
+{
+"url": "https://welmontschool.com/",
+"name": "Welmont Preschool & Daycare",
+"category": "Preschool",
+"city": "Jaipur",
+"country": "India",
+"src": "agent_schools.tsv"
+},
+{
+"url": "https://kidsprideschool.com/",
+"name": "Kids' Pride School",
+"category": "Preschool",
+"city": "Jaipur",
+"country": "India",
+"src": "agent_schools.tsv"
+},
+{
+"url": "https://www.iconschools.in/",
+"name": "ICON Nurturing Innocence",
+"category": "Preschool",
+"city": "Jaipur",
+"country": "India",
+"src": "agent_schools.tsv"
+},
+{
+"url": "https://kathakbyneha.in/",
+"name": "Kathak By Neha",
+"category": "Dance Academy",
+"city": "Jaipur",
+"country": "India",
+"src": "agent_schools.tsv"
+},
+{
+"url": "https://lajoie.in/",
+"name": "La Joie",
+"category": "Preschool",
+"city": "Lucknow",
+"country": "India",
+"src": "agent_schools.tsv"
+},
+{
+"url": "https://www.littleexplorerslko.com/",
+"name": "Little Explorers",
+"category": "Preschool",
+"city": "Lucknow",
+"country": "India",
+"src": "agent_schools.tsv"
+},
+{
+"url": "https://amslucknow.in/",
+"name": "Aliganj Montessori School",
+"category": "Private School",
+"city": "Lucknow",
+"country": "India",
+"src": "agent_schools.tsv"
+},
+{
+"url": "https://www.padmjakalasansthan.com/",
+"name": "Padmja Kala Sansthan",
+"category": "Dance Academy",
+"city": "Lucknow",
+"country": "India",
+"src": "agent_schools.tsv"
+},
+{
+"url": "https://www.themonkeyheadacademy.in/",
+"name": "The Monkey Head Academy of Music",
+"category": "Music Academy",
+"city": "Pune",
+"country": "India",
+"src": "agent_schools.tsv"
+},
+{
+"url": "https://muzika.co.in/",
+"name": "Muzika Academy",
+"category": "Music Academy",
+"city": "Pune",
+"country": "India",
+"src": "agent_schools.tsv"
+},
+{
+"url": "https://aksharammusic.com/",
+"name": "Aksharam Music",
+"category": "Music Academy",
+"city": "Pune",
+"country": "India",
+"src": "agent_schools.tsv"
+},
+{
+"url": "https://muziikkatta.com/",
+"name": "Muziik Katta",
+"category": "Music Academy",
+"city": "Pune",
+"country": "India",
+"src": "agent_schools.tsv"
+},
+{
+"url": "https://www.swarananda.in/",
+"name": "Swar Ananda School of Music",
+"category": "Music Academy",
+"city": "Pune",
+"country": "India",
+"src": "agent_schools.tsv"
+},
+{
+"url": "https://www.trigunamusic.com/",
+"name": "Triguna School of Performing Arts",
+"category": "Music Academy",
+"city": "Pune",
+"country": "India",
+"src": "agent_schools.tsv"
+},
+{
+"url": "https://www.drupaddanceacademy.in/",
+"name": "Drupad Dance Academy",
+"category": "Dance Academy",
+"city": "Indore",
+"country": "India",
+"src": "agent_schools.tsv"
+},
+{
+"url": "https://kindercastle.org/",
+"name": "Kinder Castle School",
+"category": "Preschool",
+"city": "Bhopal",
+"country": "India",
+"src": "agent_schools.tsv"
+},
+{
+"url": "https://motherspet.com/",
+"name": "Mother's Pet Kindergarten",
+"category": "Preschool",
+"city": "Nagpur",
+"country": "India",
+"src": "agent_schools.tsv"
+},
+{
+"url": "https://www.orkidpetals.com/",
+"name": "OrkidPetals Playschool",
+"category": "Preschool",
+"city": "Patna",
+"country": "India",
+"src": "agent_schools.tsv"
+},
+{
+"url": "https://www.littlecreatorsindia.com/",
+"name": "Little Creators Play School",
+"category": "Preschool",
+"city": "Patna",
+"country": "India",
+"src": "agent_schools.tsv"
+},
+{
+"url": "https://www.junioroxford.com/",
+"name": "Junior Oxford",
+"category": "Preschool",
+"city": "Patna",
+"country": "India",
+"src": "agent_schools.tsv"
+},
+{
+"url": "https://stangelinternationalkidsschool.com/",
+"name": "St Angel International Kids School",
+"category": "Preschool",
+"city": "Patna",
+"country": "India",
+"src": "agent_schools.tsv"
+},
+{
+"url": "https://crayonsplayschool.com/",
+"name": "Crayons Montessori School",
+"category": "Preschool",
+"city": "Ranchi",
+"country": "India",
+"src": "agent_schools.tsv"
+},
+{
+"url": "https://cocomelonkidz.com/",
+"name": "Cocomelon Kidz",
+"category": "Preschool",
+"city": "Ranchi",
+"country": "India",
+"src": "agent_schools.tsv"
+},
+{
+"url": "https://weeworldplayschool.com/",
+"name": "Wee World Play School",
+"category": "Preschool",
+"city": "Ranchi",
+"country": "India",
+"src": "agent_schools.tsv"
+},
+{
+"url": "https://www.arguskids.com/",
+"name": "Argus Kids",
+"category": "Preschool",
+"city": "Ranchi",
+"country": "India",
+"src": "agent_schools.tsv"
+},
+{
+"url": "https://www.merenanhekadam.com/",
+"name": "Mere Nanhe Kadam",
+"category": "Preschool",
+"city": "Ranchi",
+"country": "India",
+"src": "agent_schools.tsv"
+},
+{
+"url": "https://www.taptikids.com/",
+"name": "Tapti Kids",
+"category": "Preschool",
+"city": "Surat",
+"country": "India",
+"src": "agent_schools.tsv"
+},
+{
+"url": "https://polestarpreschool.com/",
+"name": "The Pole Star Preschool",
+"category": "Preschool",
+"city": "Surat",
+"country": "India",
+"src": "agent_schools.tsv"
+},
+{
+"url": "https://satelliteschool.in/",
+"name": "Satellite School for Children",
+"category": "Preschool",
+"city": "Ahmedabad",
+"country": "India",
+"src": "agent_schools.tsv"
+},
+{
+"url": "https://kiddosclub.in/",
+"name": "Kiddos Club",
+"category": "Preschool",
+"city": "Ahmedabad",
+"country": "India",
+"src": "agent_schools.tsv"
+},
+{
+"url": "https://www.renmontessori.org/",
+"name": "Ren Montessori",
+"category": "Preschool",
+"city": "Ahmedabad",
+"country": "India",
+"src": "agent_schools.tsv"
+},
+{
+"url": "https://www.p2musicacademy.com/",
+"name": "P2 Music Academy",
+"category": "Music Academy",
+"city": "Online",
+"country": "India",
+"src": "agent_schools.tsv"
+},
+{
+"url": "https://www.saamavedamusicacademy.in/",
+"name": "Saamaveda Music Academy",
+"category": "Music Academy",
+"city": "Hyderabad",
+"country": "India",
+"src": "agent_schools.tsv"
+},
+{
+"url": "https://www.indieclassroom.com/",
+"name": "Indieclassroom",
+"category": "Music Academy",
+"city": "Online",
+"country": "India",
+"src": "agent_schools.tsv"
+},
+{
+"url": "https://lorrainemusicacademy.com/",
+"name": "Lorraine Music Academy",
+"category": "Music Academy",
+"city": "Online",
+"country": "India",
+"src": "agent_schools.tsv"
+},
+{
+"url": "https://www.indiannatya.com/",
+"name": "IndianNatya",
+"category": "Dance Academy",
+"city": "Online",
+"country": "India",
+"src": "agent_schools.tsv"
+},
+{
+"url": "https://www.musicpandit.com/",
+"name": "Music Pandit",
+"category": "Music Academy",
+"city": "Kochi",
+"country": "India",
+"src": "agent_schools.tsv"
+},
+{
+"url": "https://dadsonsmusic.in/",
+"name": "Dadsons Music Academy",
+"category": "Music Academy",
+"city": "Coimbatore",
+"country": "India",
+"src": "agent_schools.tsv"
+},
+{
+"url": "https://mezzoschoolofmusic.in/",
+"name": "Mezzo School of Music",
+"category": "Music Academy",
+"city": "Coimbatore",
+"country": "India",
+"src": "agent_schools.tsv"
+},
+{
+"url": "https://7tonesmusicinstitute.com/",
+"name": "7 Tones Music Institute",
+"category": "Music Academy",
+"city": "Coimbatore",
+"country": "India",
+"src": "agent_schools.tsv"
+},
+{
+"url": "https://tcsm.in/",
+"name": "The Coimbatore School of Music",
+"category": "Music Academy",
+"city": "Coimbatore",
+"country": "India",
+"src": "agent_schools.tsv"
+},
+{
+"url": "https://sapthanaadhammusicacademy.com/",
+"name": "Saptha Naadham Music Academy",
+"category": "Music Academy",
+"city": "Coimbatore",
+"country": "India",
+"src": "agent_schools.tsv"
+},
+{
+"url": "https://singanallur.shreemusicacademy.com/",
+"name": "Shree Music Academy",
+"category": "Music Academy",
+"city": "Coimbatore",
+"country": "India",
+"src": "agent_schools.tsv"
+},
+{
+"url": "https://harpeggioacademy.com/",
+"name": "Harpeggio Academy of Music",
+"category": "Music Academy",
+"city": "Kochi",
+"country": "India",
+"src": "agent_schools.tsv"
+},
+{
+"url": "https://dbacademy.in/",
+"name": "Don Bosco Academy of Music & Fine Arts",
+"category": "Music Academy",
+"city": "Kochi",
+"country": "India",
+"src": "agent_schools.tsv"
+},
+{
+"url": "https://www.notesntones.com/",
+"name": "Notes n Tones",
+"category": "Music Academy",
+"city": "Kochi",
+"country": "India",
+"src": "agent_schools.tsv"
+},
+{
+"url": "https://www.cochinwaves.com/",
+"name": "Cochin Waves",
+"category": "Music Academy",
+"city": "Kochi",
+"country": "India",
+"src": "agent_schools.tsv"
+},
+{
+"url": "https://www.snptempleofarts.com/",
+"name": "Sree Nirthyapriya Temple of Arts",
+"category": "Dance Academy",
+"city": "Chennai",
+"country": "India",
+"src": "agent_schools.tsv"
+},
+{
+"url": "https://www.srinaatyaanjali.com/",
+"name": "Sri Naatyaanjali Kalaalaya",
+"category": "Dance Academy",
+"city": "Chennai",
+"country": "India",
+"src": "agent_schools.tsv"
+},
+{
+"url": "https://yazhacademy.com/",
+"name": "Yazh Academy",
+"category": "Music Academy",
+"city": "Chennai",
+"country": "India",
+"src": "agent_schools.tsv"
+},
+{
+"url": "https://srikalakshi.weebly.com/",
+"name": "Sri Kalakshi School of Dance",
+"category": "Dance Academy",
+"city": "Chennai",
+"country": "India",
+"src": "agent_schools.tsv"
+},
+{
+"url": "https://pathofmusic.com/",
+"name": "Path of Music",
+"category": "Music Academy",
+"city": "Gurgaon",
+"country": "India",
+"src": "agent_schools.tsv"
+},
+{
+"url": "https://twistnturns.in/",
+"name": "Twist N Turns",
+"category": "Dance Academy",
+"city": "Kolkata",
+"country": "India",
+"src": "agent_schools.tsv"
+},
+{
+"url": "https://stepsdanz.com/",
+"name": "Steps Dance Studio",
+"category": "Dance Academy",
+"city": "Hyderabad",
+"country": "India",
+"src": "agent_schools.tsv"
+},
+{
+"url": "https://rajeshdanceacademy.com/",
+"name": "Rajesh Dance Academy",
+"category": "Dance Academy",
+"city": "Hyderabad",
+"country": "India",
+"src": "agent_schools.tsv"
+},
+{
+"url": "https://www.sankalpaarts.com/",
+"name": "Sankalpa Arts",
+"category": "Dance Academy",
+"city": "Hyderabad",
+"country": "India",
+"src": "agent_schools.tsv"
+},
+{
+"url": "https://www.artbeatclasses.com/",
+"name": "Art Beat",
+"category": "Art Academy",
+"city": "Bangalore",
+"country": "India",
+"src": "agent_schools.tsv"
+},
+{
+"url": "https://sbarts.in/",
+"name": "SB Arts",
+"category": "Art Academy",
+"city": "Bangalore",
+"country": "India",
+"src": "agent_schools.tsv"
+},
+{
+"url": "https://www.rartwork.com/",
+"name": "RART Works",
+"category": "Art Academy",
+"city": "Bangalore",
+"country": "India",
+"src": "agent_schools.tsv"
+},
+{
+"url": "https://fineartsgurukul.org/",
+"name": "Fine Arts Gurukul",
+"category": "Art Academy",
+"city": "Bangalore",
+"country": "India",
+"src": "agent_schools.tsv"
+},
+{
+"url": "https://varnaalayaarts.com/",
+"name": "Varnaalaya Art Academy",
+"category": "Art Academy",
+"city": "Bangalore",
+"country": "India",
+"src": "agent_schools.tsv"
+},
+{
+"url": "https://www.macaw-arts.com/",
+"name": "Macaw Art & Design Studio",
+"category": "Art Academy",
+"city": "Bangalore",
+"country": "India",
+"src": "agent_schools.tsv"
+},
+{
+"url": "https://www.vrukshaschooloffinearts.com/",
+"name": "Vruksha School of Fine Arts",
+"category": "Art Academy",
+"city": "Bangalore",
+"country": "India",
+"src": "agent_schools.tsv"
+},
+{
+"url": "https://nskumbar.art/",
+"name": "NS Kumbar Art Academy",
+"category": "Art Academy",
+"city": "Bangalore",
+"country": "India",
+"src": "agent_schools.tsv"
+},
+{
+"url": "https://indianpublicschool.com/",
+"name": "Indian Public School",
+"category": "Private School",
+"city": "Dehradun",
+"country": "India",
+"src": "agent_schools.tsv"
+},
+{
+"url": "https://apollointernationalschool.com/",
+"name": "Apollo International School",
+"category": "Private School",
+"city": "Dehradun",
+"country": "India",
+"src": "agent_schools.tsv"
+},
+{
+"url": "https://snmemorialpublicschool.com/",
+"name": "S.N. Memorial Public School",
+"category": "Private School",
+"city": "Dehradun",
+"country": "India",
+"src": "agent_schools.tsv"
+},
+{
+"url": "https://doonworldschool.com/",
+"name": "Doon World School",
+"category": "Private School",
+"city": "Dehradun",
+"country": "India",
+"src": "agent_schools.tsv"
+},
+{
+"url": "https://www.theasianschool.net/",
+"name": "The Asian School",
+"category": "Private School",
+"city": "Dehradun",
+"country": "India",
+"src": "agent_schools.tsv"
+},
+{
+"url": "https://saigraceacademy.com/",
+"name": "Saigrace Academy International",
+"category": "Private School",
+"city": "Dehradun",
+"country": "India",
+"src": "agent_schools.tsv"
+},
+{
+"url": "https://columbiaglobalschool.com/",
+"name": "Columbia Global School",
+"category": "Private School",
+"city": "Raipur",
+"country": "India",
+"src": "agent_schools.tsv"
+},
+{
+"url": "https://cpsraipur.com/",
+"name": "Chhattisgarh Public School",
+"category": "Private School",
+"city": "Raipur",
+"country": "India",
+"src": "agent_schools.tsv"
+},
+{
+"url": "https://rksva.org/",
+"name": "R K Sarda Vidya Ashram",
+"category": "Private School",
+"city": "Raipur",
+"country": "India",
+"src": "agent_schools.tsv"
+},
+{
+"url": "https://jmjbharatmata.com/",
+"name": "Bharat Mata Senior Secondary School",
+"category": "Private School",
+"city": "Raipur",
+"country": "India",
+"src": "agent_schools.tsv"
+},
+{
+"url": "https://www.axelpublicschool.org/",
+"name": "Axel Public School",
+"category": "Private School",
+"city": "Guwahati",
+"country": "India",
+"src": "agent_schools.tsv"
+},
+{
+"url": "https://meridean.org/",
+"name": "Meridean Overseas",
+"category": "IELTS/PTE Coaching",
+"city": "Jaipur",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://jagvimal.com/",
+"name": "Jagvimal Consultants",
+"category": "IELTS/PTE Coaching",
+"city": "Jaipur",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://www.oneaustraliagroup.com/",
+"name": "One Australia Group",
+"category": "IELTS/PTE Coaching",
+"city": "Amritsar",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://scholastictestmasters.com/",
+"name": "Scholastic Test Masters",
+"category": "IELTS/PTE Coaching",
+"city": "Ludhiana",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://hatchwayoverseas.com/",
+"name": "Hatchway Overseas",
+"category": "IELTS/PTE Coaching",
+"city": "Mohali",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://www.touchstoneedu.com/",
+"name": "Touchstone Educationals",
+"category": "IELTS/PTE Coaching",
+"city": "Chandigarh",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://guruielts.com/",
+"name": "Guru IELTS",
+"category": "IELTS/PTE Coaching",
+"city": "Chandigarh",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://www.ieltsptetraining.com/",
+"name": "IELTS PTE Training Chandigarh",
+"category": "IELTS/PTE Coaching",
+"city": "Chandigarh",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://www.britishcareergroup.com/",
+"name": "British Career Group",
+"category": "IELTS/PTE Coaching",
+"city": "Mohali",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://ieltsoracle.com/",
+"name": "IELTS Oracle",
+"category": "IELTS/PTE Coaching",
+"city": "Mohali",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://ieltsmohali.wordpress.com/",
+"name": "Popel's Academy",
+"category": "IELTS/PTE Coaching",
+"city": "Mohali",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://abroadgateway.com/",
+"name": "Abroad Gateway",
+"category": "IELTS/PTE Coaching",
+"city": "Chandigarh",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://www.britishschooloflanguages.com/",
+"name": "British School of Language (BSL)",
+"category": "IELTS/PTE Coaching",
+"city": "Chandigarh",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://britishieltscentre.com/",
+"name": "British IELTS Centre",
+"category": "IELTS/PTE Coaching",
+"city": "Bathinda",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://eliteadvise.com/",
+"name": "Elite IELTS & Immigration",
+"category": "IELTS/PTE Coaching",
+"city": "Bathinda",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://www.cosmocentre.in/",
+"name": "COSMO Centre",
+"category": "IELTS/PTE Coaching",
+"city": "Kochi",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://grace-academy.in/",
+"name": "Grace Academy",
+"category": "IELTS/PTE Coaching",
+"city": "Kochi",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://ajithacademy.com/",
+"name": "Ajith Academy",
+"category": "IELTS/PTE Coaching",
+"city": "Kottayam",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://medcityacademy.com/",
+"name": "Medcity International Academy",
+"category": "IELTS/PTE Coaching",
+"city": "Kochi",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://dreamcatchersacademy.in/",
+"name": "Dream Catchers Academy",
+"category": "IELTS/PTE Coaching",
+"city": "Kottayam",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://neethusacademy.com/",
+"name": "Neethu's Academy",
+"category": "IELTS/PTE Coaching",
+"city": "Kochi",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://tijusacademy.com/",
+"name": "Tiju's Academy",
+"category": "IELTS/PTE Coaching",
+"city": "Mavelikara",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://milwaukeeacademy.org/",
+"name": "Milwaukee Academy",
+"category": "IELTS/PTE Coaching",
+"city": "Kothamangalam",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://www.ealoorconsultancy.com/",
+"name": "Ealoor Consultancy",
+"category": "IELTS/PTE Coaching",
+"city": "Kottayam",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://breffniacademy.in/",
+"name": "Breffni Academy",
+"category": "IELTS/PTE Coaching",
+"city": "Kottayam",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://rginternational.org/",
+"name": "RG International",
+"category": "IELTS/PTE Coaching",
+"city": "Surat",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://edgeinternational.in/",
+"name": "Edge International",
+"category": "IELTS/PTE Coaching",
+"city": "Vadodara",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://www.pentacounseling.com/",
+"name": "Penta Counseling Services",
+"category": "IELTS/PTE Coaching",
+"city": "Vadodara",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://domaininternational.in/",
+"name": "Domain International",
+"category": "IELTS/PTE Coaching",
+"city": "Vadodara",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://eliteoverseaseducation.com/",
+"name": "Elite Overseas Education",
+"category": "IELTS/PTE Coaching",
+"city": "Surat",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://bkimmigration.co/",
+"name": "BK Immigration",
+"category": "IELTS/PTE Coaching",
+"city": "Vadodara",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://globalcolliance.com/",
+"name": "Global Colliance",
+"category": "IELTS/PTE Coaching",
+"city": "Vadodara",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://www.sterninstitute.com/",
+"name": "Stern Institute",
+"category": "IELTS/PTE Coaching",
+"city": "Surat",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://mnii.in/",
+"name": "MNII",
+"category": "IELTS/PTE Coaching",
+"city": "Patiala",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://www.epicpatiala.com/",
+"name": "EPIC Patiala",
+"category": "IELTS/PTE Coaching",
+"city": "Patiala",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://scpedutech.com/",
+"name": "SCP Edutech",
+"category": "IELTS/PTE Coaching",
+"city": "Patiala",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://www.arunguptas.com/",
+"name": "ARUNGUPTAS",
+"category": "IELTS/PTE Coaching",
+"city": "Karnal",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://chetanyacareers.com/",
+"name": "Chetanya Career Consultants",
+"category": "IELTS/PTE Coaching",
+"city": "Kurukshetra",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://magicaloverseas.com/",
+"name": "Magical Overseas",
+"category": "IELTS/PTE Coaching",
+"city": "Karnal",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://indowestvisas.com/",
+"name": "Indowest Visas",
+"category": "IELTS/PTE Coaching",
+"city": "Ambala",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://teamscholars.in/",
+"name": "Scholars",
+"category": "IELTS/PTE Coaching",
+"city": "Ambala",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://www.englishgyan.net/",
+"name": "English Gyan",
+"category": "IELTS/PTE Coaching",
+"city": "Karnal",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://englishsprings.com/",
+"name": "English Springs",
+"category": "IELTS/PTE Coaching",
+"city": "Hyderabad",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://www.firstacademy.in/",
+"name": "First Academy",
+"category": "IELTS/PTE Coaching",
+"city": "Hyderabad",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://www.apple-academy.in/",
+"name": "Apple Academy Consultants",
+"category": "IELTS/PTE Coaching",
+"city": "Hyderabad",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://roneglobal.com/",
+"name": "Rone Global",
+"category": "IELTS/PTE Coaching",
+"city": "Hyderabad",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "http://ieltssowrya.blogspot.com/",
+"name": "IELTS Sowrya",
+"category": "IELTS/PTE Coaching",
+"city": "Hyderabad",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://study2migrate.com/",
+"name": "Study2Migrate",
+"category": "IELTS/PTE Coaching",
+"city": "Vijayawada",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://the-vfs.com/",
+"name": "VFS IELTS & PTE Coaching",
+"category": "IELTS/PTE Coaching",
+"city": "Vijayawada",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://www.ssecedu.org/",
+"name": "S.S. Education & Consultancy",
+"category": "IELTS/PTE Coaching",
+"city": "Guwahati",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://perfecttrainer.in/",
+"name": "Perfect Trainer",
+"category": "IELTS/PTE Coaching",
+"city": "Guwahati",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://spokenenglishnagpur.com/",
+"name": "SpeakWell Spoken English Classes",
+"category": "Spoken English",
+"city": "Nagpur",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://www.perfectspokenenglish.com/",
+"name": "Perfect Spoken English",
+"category": "Spoken English",
+"city": "Nagpur",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://learnenglishwithparularya.com/",
+"name": "Learn English with Parul Arya",
+"category": "Spoken English",
+"city": "Nagpur",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://oxfordspokenenglish.com/",
+"name": "Oxford Spoken English",
+"category": "Spoken English",
+"city": "Nagpur",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://www.wmspokenenglishclasses.com/",
+"name": "WM Spoken English Classes",
+"category": "Spoken English",
+"city": "Bhopal",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://speaksmartly.com/",
+"name": "Speak Smartly",
+"category": "Spoken English",
+"city": "Bhopal",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://edlinkindia.com/",
+"name": "EdLink",
+"category": "Spoken English",
+"city": "Bhopal",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://modern-english-mp-nagar-center.localo.site/",
+"name": "Modern English MP Nagar",
+"category": "Spoken English",
+"city": "Bhopal",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://dlcthelearningclub.in/",
+"name": "DLC The Learning Club",
+"category": "Spoken English",
+"city": "Bhopal",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://www.speakenglishacademy.in/",
+"name": "SPEAK ENGLISH Academy",
+"category": "Spoken English",
+"city": "Ranchi",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://oxbridge.in/",
+"name": "Oxbridge Institute",
+"category": "Spoken English",
+"city": "Ranchi",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://ttrouncevaranasi.com/",
+"name": "Trounce Varanasi",
+"category": "Spoken English",
+"city": "Varanasi",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://silvertonguetraining.in/",
+"name": "Silver Tongue Training",
+"category": "Spoken English",
+"city": "Coimbatore",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://aksent.in/",
+"name": "Aksent",
+"category": "Spoken English",
+"city": "Coimbatore",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://www.cdsa365.com/",
+"name": "Carpe Diem Skills Academy",
+"category": "Spoken English",
+"city": "Coimbatore",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://ivaracademy.com/",
+"name": "IVAR Academy",
+"category": "Spoken English",
+"city": "Coimbatore",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://globalsrenglishlearningacademy.com/",
+"name": "Global SR English Learning Academy",
+"category": "Spoken English",
+"city": "Coimbatore",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://chellammalinstitute.org/",
+"name": "Chellammal Institute",
+"category": "Spoken English",
+"city": "Coimbatore",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://englishpartner.com/",
+"name": "English Partner",
+"category": "Spoken English",
+"city": "Madurai",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://languagepantheon.com/",
+"name": "Language Pantheon",
+"category": "Foreign Language",
+"city": "Pune",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://www.studyfrenchspanish.com/",
+"name": "Study French Spanish",
+"category": "Foreign Language",
+"city": "Bangalore",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://zinglanguages.com/",
+"name": "Zing Languages",
+"category": "Foreign Language",
+"city": "Bangalore",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://fluentfrench.in/",
+"name": "Fluent French Academy",
+"category": "Foreign Language",
+"city": "Chennai",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://www.hereandnow.co.in/",
+"name": "HERE AND NOW - The Language Institute",
+"category": "Foreign Language",
+"city": "Chennai",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://frenchtree.in/",
+"name": "French Tree",
+"category": "Foreign Language",
+"city": "Chennai",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://ecolefrench.org/",
+"name": "Ecole French",
+"category": "Foreign Language",
+"city": "Chennai",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://www.lenguainstitut.com/",
+"name": "Lengua Institut",
+"category": "Foreign Language",
+"city": "Hyderabad",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://www.abyaas.co.in/",
+"name": "Abyaas",
+"category": "Foreign Language",
+"city": "Hyderabad",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://erfolglanguageclasses.com/",
+"name": "Erfolg German Language Classes",
+"category": "Foreign Language",
+"city": "Hyderabad",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://www.iefl.net/",
+"name": "Institute of English & Foreign Languages",
+"category": "Foreign Language",
+"city": "Hyderabad",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://www.ivyoverseas.com/",
+"name": "IVY Overseas",
+"category": "Foreign Language",
+"city": "Hyderabad",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://www.yesgermany.com/",
+"name": "YES Germany",
+"category": "Foreign Language",
+"city": "Hyderabad",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://www.oracleglobaleducation.com/",
+"name": "Oracle Language Institute",
+"category": "Foreign Language",
+"city": "Delhi",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://swissschooloflanguage.net/",
+"name": "Swiss School of Language",
+"category": "Foreign Language",
+"city": "Delhi",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://lexicainternational.com/",
+"name": "Lexica International",
+"category": "Foreign Language",
+"city": "Delhi",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://www.fluentfastacademy.com/",
+"name": "Fluent Fast Academy",
+"category": "Foreign Language",
+"city": "Delhi",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://iblanguages.com/",
+"name": "iB Languages",
+"category": "Foreign Language",
+"city": "Delhi",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://mentorlanguage.com/",
+"name": "Mentor Language",
+"category": "Foreign Language",
+"city": "Delhi",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://www.hablo.in/",
+"name": "Hablo Language Institute",
+"category": "Foreign Language",
+"city": "Delhi",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://letstalkindia.com/",
+"name": "Lets Talk Academy",
+"category": "Foreign Language",
+"city": "Pune",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://snrc.co.in/",
+"name": "Sakuraa Nihongo Resource Centre",
+"category": "Foreign Language",
+"city": "Pune",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://astro-academy.co.in/",
+"name": "Astro Academy",
+"category": "Foreign Language",
+"city": "Chennai",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://lingothoughts.com/",
+"name": "LingoThoughts",
+"category": "Foreign Language",
+"city": "Pune",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://theorientaldialogue.com/",
+"name": "The Oriental Dialogue",
+"category": "Foreign Language",
+"city": "Pune",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://nableindia.com/",
+"name": "N.able Training Institute",
+"category": "Foreign Language",
+"city": "Kochi",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://aimlanguageinstitute.com/",
+"name": "AIM Language Institute",
+"category": "Foreign Language",
+"city": "Kochi",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://panschul.com/",
+"name": "PanSchul International",
+"category": "Foreign Language",
+"city": "Kochi",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://lanstitut.com/",
+"name": "Lanstitut",
+"category": "Foreign Language",
+"city": "Kochi",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://caspiaedu.com/",
+"name": "Caspia Overseas Studies",
+"category": "Foreign Language",
+"city": "Kochi",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://vfpatna.com/",
+"name": "Vedanta Computer Training Institute",
+"category": "Computer Training",
+"city": "Patna",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://www.lotusithub.com/",
+"name": "Lotus IT Hub",
+"category": "Computer Training",
+"city": "Pune",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://www.vedantsri.net/",
+"name": "VedantSri Computer Institute",
+"category": "Computer Training",
+"city": "Varanasi",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://itcomputerlucknow.in/",
+"name": "IT Computer Academy",
+"category": "Computer Training",
+"city": "Lucknow",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://gurukulcomputers.in/",
+"name": "Gurukul Computer Saksharta Mission",
+"category": "Computer Training",
+"city": "Lucknow",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://icminstitute.co.in/",
+"name": "ICM Computer Institute",
+"category": "Computer Training",
+"city": "Lucknow",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://www.ojdeducation.com/",
+"name": "OJD Education",
+"category": "Computer Training",
+"city": "Lucknow",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://excellentcomputereducation.com/",
+"name": "Excellent Computer Education",
+"category": "Computer Training",
+"city": "Lucknow",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://www.thecomputerhut.in/",
+"name": "The Computer Hut",
+"category": "Computer Training",
+"city": "Lucknow",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://itcjaipur.com/",
+"name": "ITC Computer Classes",
+"category": "Computer Training",
+"city": "Jaipur",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://sifacomputerclasses.com/",
+"name": "SIFA Computer Classes",
+"category": "Computer Training",
+"city": "Jaipur",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://shree-shyam-computer-academy.localo.site/",
+"name": "Shyam Computer Academy",
+"category": "Computer Training",
+"city": "Jaipur",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://shekhawaticlasses.com/",
+"name": "Shekhawati Classes",
+"category": "Computer Training",
+"city": "Jaipur",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://vishwammcomputerclassesjaipur.blogspot.com/",
+"name": "Vishwamm Computer Classes",
+"category": "Computer Training",
+"city": "Jaipur",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://jainscomputer.com/",
+"name": "Jains Computer",
+"category": "Computer Training",
+"city": "Jaipur",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://iisdt.in/",
+"name": "IISDT Computer Training Institute",
+"category": "Computer Training",
+"city": "Kolkata",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://ascentcomputer.co.in/",
+"name": "Ascent Infotech",
+"category": "Computer Training",
+"city": "Kolkata",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://ccubecomputer.com/",
+"name": "C-Cube Computer",
+"category": "Computer Training",
+"city": "Kolkata",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://nicscomputer.com/",
+"name": "NICS Computer",
+"category": "Computer Training",
+"city": "Kolkata",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://www.tbdscomputer.in/",
+"name": "TBDS Computer Training Institute",
+"category": "Computer Training",
+"city": "Kolkata",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://www.introductionitacademy.com/",
+"name": "Introduction IT Academy",
+"category": "Computer Training",
+"city": "Kolkata",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://patelwebsolution.com/",
+"name": "Patel Web Solution",
+"category": "Computer Training",
+"city": "Ahmedabad",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://s20.in/",
+"name": "Super 20 (S20) Training Institute",
+"category": "Computer Training",
+"city": "Ahmedabad",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://www.sixsenseedu.com/",
+"name": "Six Sense Edu",
+"category": "Computer Training",
+"city": "Ahmedabad",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://tallyerp9traininginstitute.in/",
+"name": "DMG Tally Training Institute",
+"category": "Computer Training",
+"city": "Ahmedabad",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://munimji.co.in/",
+"name": "Munimji",
+"category": "Computer Training",
+"city": "Ahmedabad",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://uiit.net/",
+"name": "Udaan Institute of Information Technology",
+"category": "Computer Training",
+"city": "Ahmedabad",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://versionup.in/",
+"name": "Version Up Software Training Institute",
+"category": "Computer Training",
+"city": "Ahmedabad",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://ukmsci.com/",
+"name": "Maa Saraswati Computer Institute",
+"category": "Computer Training",
+"city": "Dehradun",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://pivoteduunit.in/",
+"name": "Pivot Edu Unit",
+"category": "Computer Training",
+"city": "Dehradun",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://www.rrcomputerskills.com/",
+"name": "R R Computer & Skill Development Institute",
+"category": "Computer Training",
+"city": "Dehradun",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://dooncodingacademy.in/",
+"name": "Doon Coding Academy",
+"category": "Computer Training",
+"city": "Dehradun",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://indmi.in/",
+"name": "Indore Digital Marketing Institute",
+"category": "Digital Skills Training",
+"city": "Indore",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://www.digitalmarketingtraininginstitutebhopal.com/",
+"name": "Digital Marketing Training Institute Bhopal",
+"category": "Digital Skills Training",
+"city": "Bhopal",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://www.talentmarkacademy.com/",
+"name": "TalentMark Academy",
+"category": "Digital Skills Training",
+"city": "Indore",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://inidl.in/",
+"name": "INIDL",
+"category": "Digital Skills Training",
+"city": "Indore",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://briwonacademy.com/",
+"name": "Briwon Academy",
+"category": "Digital Skills Training",
+"city": "Indore",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://digitaltrainee.com/",
+"name": "Digital Trainee",
+"category": "Digital Skills Training",
+"city": "Indore",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://www.sggurukul.com/",
+"name": "SG Gurukul",
+"category": "Digital Skills Training",
+"city": "Indore",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://staenz.com/",
+"name": "Staenz Academy",
+"category": "Digital Skills Training",
+"city": "Nashik",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://institute.digitalmarketingstudio.in/",
+"name": "Digital Marketing Studio",
+"category": "Digital Skills Training",
+"city": "Nashik",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://edupract.in/",
+"name": "Edupract",
+"category": "Digital Skills Training",
+"city": "Nashik",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://oneplacedigital.com/",
+"name": "OnePlace Digital Academy",
+"category": "Digital Skills Training",
+"city": "Nashik",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://academy.gyanimaster.digital/",
+"name": "Gyani Master Academy",
+"category": "Digital Skills Training",
+"city": "Nashik",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://www.shreeacademy.net.in/",
+"name": "Shree Academy",
+"category": "Digital Skills Training",
+"city": "Rajkot",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://www.animationcoursesahmedabad.com/",
+"name": "Kshitij Vivan",
+"category": "Digital Skills Training",
+"city": "Ahmedabad",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://arexinstitute.com/",
+"name": "AREX Training Institute",
+"category": "Digital Skills Training",
+"city": "Rajkot",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://skillupstudio.in/",
+"name": "SkillUp Studio",
+"category": "Digital Skills Training",
+"city": "Rajkot",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://www.voxeldesigninstitute.com/",
+"name": "Voxel Design Institute",
+"category": "Digital Skills Training",
+"city": "Rajkot",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://www.dgroyals.com/",
+"name": "DG Royals",
+"category": "Digital Skills Training",
+"city": "Surat",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://www.cdmi.in/",
+"name": "Creative Design & Multimedia Institute",
+"category": "Digital Skills Training",
+"city": "Surat",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://www.artshala.biz/",
+"name": "ArtShala",
+"category": "Digital Skills Training",
+"city": "Rajkot",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://iidmgroup.com/",
+"name": "IIDM",
+"category": "Digital Skills Training",
+"city": "Kochi",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://digitalxkochi.com/",
+"name": "DigitalX Kochi",
+"category": "Digital Skills Training",
+"city": "Kochi",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://clearmycourse.in/",
+"name": "Clear My Course",
+"category": "Digital Skills Training",
+"city": "Kochi",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://zoople.in/",
+"name": "Zoople",
+"category": "Digital Skills Training",
+"city": "Kochi",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://onecodedigital.in/",
+"name": "OneCode Digital Academy",
+"category": "Digital Skills Training",
+"city": "Kochi",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://oneteamsolutions.in/",
+"name": "OneTeam Solutions",
+"category": "Digital Skills Training",
+"city": "Kochi",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://adiinstitute.co.in/",
+"name": "Adi Group of Institutions",
+"category": "Digital Skills Training",
+"city": "Trivandrum",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://www.mcta.co.in/",
+"name": "MCTA",
+"category": "Digital Skills Training",
+"city": "Kochi",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://pidm.in/",
+"name": "Patna Institute of Digital Marketing",
+"category": "Digital Skills Training",
+"city": "Patna",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://zinmatt.com/",
+"name": "Zinmatt",
+"category": "Digital Skills Training",
+"city": "Patna",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://www.clickbyseo.com/",
+"name": "ClickBySEO",
+"category": "Digital Skills Training",
+"city": "Patna",
+"country": "India",
+"src": "agent_skills.tsv"
+},
+{
+"url": "https://www.hometutorlucknow.com/",
+"name": "Home Tutor Lucknow",
+"category": "Home Tuition Bureau",
+"city": "Lucknow",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://shishyguru.com/",
+"name": "Shishy Guru",
+"category": "Home Tuition Bureau",
+"city": "Lucknow",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://hometution-tucen.carrd.co/",
+"name": "Personalized Home Tuition Lucknow",
+"category": "Home Tuition Bureau",
+"city": "Lucknow",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://eduathomecom.odoo.com/",
+"name": "Edu At Home",
+"category": "Home Tuition Bureau",
+"city": "Patna",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://thedndacademy.carrd.co/",
+"name": "The Dawn and Dusk Academy",
+"category": "Home Tuition Bureau",
+"city": "Delhi",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://perfecttutor.in/",
+"name": "Perfect Tutor",
+"category": "Home Tuition Bureau",
+"city": "Noida",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://iqhometuitions.in/",
+"name": "IQ Home Tuitions",
+"category": "Home Tuition Bureau",
+"city": "Kanpur",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://kanpurhometutor.online/",
+"name": "Kanpur Home Tutor",
+"category": "Home Tuition Bureau",
+"city": "Kanpur",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://teacherswala.com/",
+"name": "Teacherswala",
+"category": "Home Tuition Bureau",
+"city": "Kanpur",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://dreamtuitionagency.com/",
+"name": "Dream Tuition Agency",
+"category": "Home Tuition Bureau",
+"city": "Kanpur",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://hometutorkanpur.in/",
+"name": "Home Tutor Kanpur",
+"category": "Home Tuition Bureau",
+"city": "Kanpur",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://super40hometuition.com/",
+"name": "Super 40 Home Tuition",
+"category": "Home Tuition Bureau",
+"city": "Kanpur",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://www.teachxconsultancy.in/",
+"name": "Teach X Consultancy",
+"category": "Home Tuition Bureau",
+"city": "Kanpur",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://www.qalpedu.com/",
+"name": "Qalp Educare",
+"category": "Home Tuition Bureau",
+"city": "Varanasi",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://www.paramtuitionbureau.com/",
+"name": "Param Tuition Bureau",
+"category": "Home Tuition Bureau",
+"city": "Lucknow",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://www.teachwell.in/",
+"name": "Teachwell",
+"category": "Home Tuition Bureau",
+"city": "Kanpur",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://mmhometuition.com/",
+"name": "MM Home Tuition",
+"category": "Home Tuition Bureau",
+"city": "Lucknow",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://doonhometution.com/",
+"name": "Doon Home Tuition",
+"category": "Home Tuition Bureau",
+"city": "Dehradun",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://www.truestudez.com/",
+"name": "Truestudez",
+"category": "Home Tuition Bureau",
+"city": "Dehradun",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://doontutor.online/",
+"name": "Doon Tutor",
+"category": "Home Tuition Bureau",
+"city": "Dehradun",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://kanhahometutions.com/",
+"name": "Kanha Home Tuitions",
+"category": "Home Tuition Bureau",
+"city": "Dehradun",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://sharmatutors.com/",
+"name": "Sharma Tutor Bureau",
+"category": "Home Tuition Bureau",
+"city": "Dehradun",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://www.hometuitionteachers.in/",
+"name": "HomeTuitionTeachers.in",
+"category": "Home Tuition Bureau",
+"city": "Dehradun",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://www.teacheratclick.com/",
+"name": "Teacher at Click",
+"category": "Home Tuition Bureau",
+"city": "Dehradun",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://mishrahometutor.in/",
+"name": "Mishra Home Tutor",
+"category": "Home Tuition Bureau",
+"city": "Ranchi",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://www.urbantutors.org/",
+"name": "Urban Tutors",
+"category": "Home Tuition Bureau",
+"city": "Bangalore",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://www.brilliantacademy.org/",
+"name": "Brilliant Academy",
+"category": "Home Tuition Bureau",
+"city": "Bangalore",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://bangaloretutor.in/",
+"name": "Bangalore Tutor",
+"category": "Home Tuition Bureau",
+"city": "Bangalore",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://www.hometuitionbangalore.in/",
+"name": "Home Tuition Bangalore",
+"category": "Home Tuition Bureau",
+"city": "Bangalore",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://hometuitionbangalore.com/",
+"name": "HomeTuitionBangalore (Euro Tutor LLP)",
+"category": "Home Tuition Bureau",
+"city": "Bangalore",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://www.hometuitionindia.com/",
+"name": "Home Tuition India",
+"category": "Home Tuition Bureau",
+"city": "Bangalore",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://www.tuitionteachers.in/",
+"name": "Tuition Teachers",
+"category": "Home Tuition Bureau",
+"city": "Bangalore",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://protutor.in/",
+"name": "ProTutor",
+"category": "Home Tuition Bureau",
+"city": "Bangalore",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://www.zclasses.co/",
+"name": "Z Classes",
+"category": "Home Tuition Bureau",
+"city": "Bangalore",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://bangalorehometutor.com/",
+"name": "Bangalore Home Tutor",
+"category": "Home Tuition Bureau",
+"city": "Bangalore",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://tutorbuddyacademy.com/",
+"name": "Tutor Buddy Academy",
+"category": "Home Tuition Bureau",
+"city": "Chandigarh",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://saraswatihometuitions.in/",
+"name": "Saraswati Home Tuitions",
+"category": "Home Tuition Bureau",
+"city": "Mohali",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://anandtutorials.com/",
+"name": "Anand Tutorials",
+"category": "Home Tuition Bureau",
+"city": "Jabalpur",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://www.questforsuccess.in/",
+"name": "Quest for Success",
+"category": "Online Tuition",
+"city": "Online",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://www.baccalaureateclass.com/",
+"name": "Baccalaureate Classes",
+"category": "Online Tuition",
+"city": "Delhi",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://eclassopedia.com/",
+"name": "eClassopedia",
+"category": "Online Tuition",
+"city": "Online",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://www.chennaihometutors.com/",
+"name": "Chennai Home Tutors",
+"category": "Home Tuition Bureau",
+"city": "Chennai",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://hometutoracademy.com/",
+"name": "Home Tutors Academy",
+"category": "Home Tuition Bureau",
+"city": "Delhi",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://www.brillianttutorsacademy.com/",
+"name": "Brilliant Tutors Academy",
+"category": "Home Tuition Bureau",
+"city": "Mumbai",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://www.balajitutorsacademy.com/",
+"name": "Balaji Tutors Academy",
+"category": "Home Tuition Bureau",
+"city": "Mumbai",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://teacherbureau.com/",
+"name": "Teacher Bureau",
+"category": "Home Tuition Bureau",
+"city": "Mumbai",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://www.hometuitionsnearme.in/",
+"name": "Home Tuition Academy",
+"category": "Home Tuition Bureau",
+"city": "Mumbai",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://pdotuitionservices.com/",
+"name": "PDO Tuition Services",
+"category": "Home Tuition Bureau",
+"city": "Mumbai",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://www.brilliantacademy.in/",
+"name": "Brilliant Academy Mumbai",
+"category": "Home Tuition Bureau",
+"city": "Mumbai",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://brtutors.com/",
+"name": "BR Tutors",
+"category": "Home Tuition Bureau",
+"city": "Mumbai",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://markclimb.com/",
+"name": "MarkClimb",
+"category": "Online Tuition",
+"city": "Mumbai",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://www.tutorsignature.com/",
+"name": "Tutor Signature",
+"category": "Home Tuition Bureau",
+"city": "Vadodara",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://www.qto.education/",
+"name": "QTO Education",
+"category": "Home Tuition Bureau",
+"city": "Ahmedabad",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://doableindia.com/",
+"name": "DoAble India",
+"category": "Home Tuition Bureau",
+"city": "Surat",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://topperhometutors.com/",
+"name": "Topper Home Tutors",
+"category": "Home Tuition Bureau",
+"city": "Gwalior",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://www.naesttutors.com/",
+"name": "Naest Tutors",
+"category": "Home Tuition Bureau",
+"city": "Meerut",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://www.rajhometutorials.com/",
+"name": "Raj Home Tutorials",
+"category": "Home Tuition Bureau",
+"city": "Nagpur",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://studypointhometutorials.com/",
+"name": "Study Point Home Tutorials",
+"category": "Home Tuition Bureau",
+"city": "Nagpur",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://anandtutorials-nagpur.ueniweb.com/",
+"name": "Anand Tutorials Nagpur",
+"category": "Home Tuition Bureau",
+"city": "Nagpur",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://besthometutornagpur.com/",
+"name": "Best Home Tutor Nagpur",
+"category": "Home Tuition Bureau",
+"city": "Nagpur",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://www.deshmukhhometutorial.in/",
+"name": "Deshmukh Home Tutorials",
+"category": "Home Tuition Bureau",
+"city": "Nagpur",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://www.omegahometutors.com/",
+"name": "Omega Home Tutors",
+"category": "Home Tuition Bureau",
+"city": "Raipur",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://bhanuhometuition.com/",
+"name": "Bhanu Home Tuition",
+"category": "Home Tuition Bureau",
+"city": "Delhi",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://mytuitionapp.com/",
+"name": "My Tuition App",
+"category": "Online Tuition",
+"city": "Online",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://learnizo.co.in/",
+"name": "Learnizo",
+"category": "Online Tuition",
+"city": "Online",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://tuition-ed.com/",
+"name": "Tuitioned",
+"category": "Online Tuition",
+"city": "Online",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://udgamonline.com/",
+"name": "Udgam Online",
+"category": "Online Tuition",
+"city": "Online",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://www.edflik.com/",
+"name": "EdFlik",
+"category": "Online Tuition",
+"city": "Online",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://www.mastermindabacus.com/",
+"name": "Mastermind Abacus",
+"category": "Online Tuition",
+"city": "Online",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://onlinemaths.in/",
+"name": "OnlineMaths.in",
+"category": "Online Tuition",
+"city": "Gurugram",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://mathematicshometutor.in/",
+"name": "Mathematics Home Tutor (Shamsher Sir)",
+"category": "Online Tuition",
+"city": "Delhi",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://www.homeguruworld.com/",
+"name": "HomeGuru",
+"category": "Online Tuition",
+"city": "Online",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://ibelitetutor.com/",
+"name": "IB Elite Tutor",
+"category": "Online Tuition",
+"city": "Online",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://edusolvelearn.com/",
+"name": "EduSolve",
+"category": "Online Tuition",
+"city": "Online",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://clapslearn.com/",
+"name": "Claps Learn",
+"category": "Online Tuition",
+"city": "Kerala",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://delhitutors.com/",
+"name": "Delhi Tutors",
+"category": "Home Tuition Bureau",
+"city": "Delhi",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://igcsemathstutoronline.com/",
+"name": "IGCSE Maths Academy",
+"category": "Online Tuition",
+"city": "Online",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://digituitionclass.com/",
+"name": "Digi Tutorial",
+"category": "Online Tuition",
+"city": "Online",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://eduquest.org.in/",
+"name": "EduQuest",
+"category": "Online Tuition",
+"city": "Online",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://angletuition.com/",
+"name": "Angle Tuition",
+"category": "Online Tuition",
+"city": "Kerala",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://e-tuitions.com/",
+"name": "e-tuitions",
+"category": "Online Tuition",
+"city": "Online",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://1x1tutor.com/",
+"name": "1x1tutor",
+"category": "Online Tuition",
+"city": "Online",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://www.jayasacademy.com/",
+"name": "Jaya's Academy",
+"category": "Online Tuition",
+"city": "Online",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://thebeyondtutors.com/",
+"name": "Beyond Tutors",
+"category": "Online Tuition",
+"city": "Online",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://edvi.app/",
+"name": "edvi",
+"category": "Online Tuition",
+"city": "Online",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://www.studyauracle.com/",
+"name": "Study Auracle",
+"category": "Online Tuition",
+"city": "Online",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://www.xellotuition.in/",
+"name": "Xello Tuition",
+"category": "Online Tuition",
+"city": "Kozhikode",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://www.intervaledu.com/",
+"name": "Interval Learning",
+"category": "Online Tuition",
+"city": "Kerala",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://anglebelearn.com/",
+"name": "Angle Belearn",
+"category": "Online Tuition",
+"city": "Kerala",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://kochihometuition.com/",
+"name": "Kochi Home Tuition",
+"category": "Home Tuition Bureau",
+"city": "Kochi",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://scientiatutorials.in/",
+"name": "Scientia Tutorials",
+"category": "Home Tuition Bureau",
+"city": "Guwahati",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://tutoringpoint.in/",
+"name": "Tutoring Point",
+"category": "Home Tuition Bureau",
+"city": "Guwahati",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://www.tutorsassociate.com/",
+"name": "Tutors Associate",
+"category": "Home Tuition Bureau",
+"city": "Guwahati",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://www.brainstormhometuition.com/",
+"name": "Brainstorm Home Tuition",
+"category": "Home Tuition Bureau",
+"city": "Ludhiana",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://aditihometuition.com/",
+"name": "Aditi Home Tuition",
+"category": "Home Tuition Bureau",
+"city": "Ludhiana",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://besttuitionteacher.com/",
+"name": "Best Tuition Teacher",
+"category": "Home Tuition Bureau",
+"city": "Delhi",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://www.merahometutor.com/",
+"name": "Mera Home Tutor",
+"category": "Home Tuition Bureau",
+"city": "Delhi",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://muskantutor.com/",
+"name": "MuskanTutor",
+"category": "Home Tuition Bureau",
+"city": "Delhi",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://tuitionpointdelhi.com/",
+"name": "Tuition Point Delhi",
+"category": "Home Tuition Bureau",
+"city": "Delhi",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://hometutornearme.in/",
+"name": "HomeTutorNearMe",
+"category": "Home Tuition Bureau",
+"city": "Delhi",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://tutorslinklucknow.com/",
+"name": "Tutors Link Lucknow",
+"category": "Home Tuition Bureau",
+"city": "Lucknow",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://www.thehometuitions.in/",
+"name": "The Home Tuitions",
+"category": "Home Tuition Bureau",
+"city": "Lucknow",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://tuitioningomtinagar.github.io/",
+"name": "Tuition in Gomti Nagar",
+"category": "Home Tuition Bureau",
+"city": "Lucknow",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://myhometutors.org/",
+"name": "MyHomeTutors Lucknow",
+"category": "Home Tuition Bureau",
+"city": "Lucknow",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://tutionjaipur.com/",
+"name": "TuitionJaipur",
+"category": "Home Tuition Bureau",
+"city": "Jaipur",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://mrtutorindia.com/",
+"name": "Mr. Tutor",
+"category": "Home Tuition Bureau",
+"city": "Jaipur",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://www.wavefronthometuition.com/",
+"name": "Wavefront Home Tuition",
+"category": "Home Tuition Bureau",
+"city": "Jaipur",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://www.konnectguru.com/",
+"name": "KonnectGuru",
+"category": "Home Tuition Bureau",
+"city": "Guwahati",
+"country": "India",
+"src": "agent_tuition.tsv"
+},
+{
+"url": "https://moonlightmusicacademy.com/",
+"name": "",
+"category": "Music Academy",
+"city": "Mysore",
+"country": "India",
+"src": "serp"
+},
+{
+"url": "https://gssmusicschool.com/",
+"name": "",
+"category": "Music Academy",
+"city": "Mysore",
+"country": "India",
+"src": "serp"
+},
+{
+"url": "https://www.nadavidyalaya.com/",
+"name": "",
+"category": "Music Academy",
+"city": "Mysore",
+"country": "India",
+"src": "serp"
+},
+{
+"url": "https://www.amecindia.com/",
+"name": "",
+"category": "Music Academy",
+"city": "Kolkata",
+"country": "India",
+"src": "serp"
+},
+{
+"url": "https://www.bengalmusic.art/",
+"name": "",
+"category": "Music Academy",
+"city": "Kolkata",
+"country": "India",
+"src": "serp"
+},
+{
+"url": "https://www.shurpanchammusicacademy.com/",
+"name": "",
+"category": "Music Academy",
+"city": "Kolkata",
+"country": "India",
+"src": "serp"
+},
+{
+"url": "https://www.stringsneasels.com/",
+"name": "",
+"category": "Music Academy",
+"city": "Kolkata",
+"country": "India",
+"src": "serp"
+},
+{
+"url": "https://www.academyofmusicnarts.com/",
+"name": "",
+"category": "Music Academy",
+"city": "Ranchi",
+"country": "India",
+"src": "serp"
+},
+{
+"url": "https://rohitakhouri.com/",
+"name": "",
+"category": "Music Academy",
+"city": "Ranchi",
+"country": "India",
+"src": "serp"
+},
+{
+"url": "https://yappe.in/",
+"name": "",
+"category": "Music Academy",
+"city": "Ranchi",
+"country": "India",
+"src": "serp"
+},
+{
+"url": "https://www.stringmusicacademy.in/",
+"name": "",
+"category": "Music Academy",
+"city": "Ranchi",
+"country": "India",
+"src": "serp"
+},
+{
+"url": "https://www.jharkhandbihar.com/",
+"name": "",
+"category": "Music Academy",
+"city": "Ranchi",
+"country": "India",
+"src": "serp"
+},
+{
+"url": "https://www.prajhanmusic.com/",
+"name": "",
+"category": "Music Academy",
+"city": "Patna",
+"country": "India",
+"src": "serp"
+},
+{
+"url": "https://www.symphobiaacademy.com/",
+"name": "",
+"category": "Music Academy",
+"city": "Patna",
+"country": "India",
+"src": "serp"
+},
+{
+"url": "https://symphobiamusicacademy.com/",
+"name": "",
+"category": "Music Academy",
+"city": "Patna",
+"country": "India",
+"src": "serp"
+},
+{
+"url": "https://www.tansenschool.com/",
+"name": "",
+"category": "Music Academy",
+"city": "Patna",
+"country": "India",
+"src": "serp"
+},
+{
+"url": "https://gdgoenkapatna.com/",
+"name": "",
+"category": "Music Academy",
+"city": "Patna",
+"country": "India",
+"src": "serp"
+},
+{
+"url": "https://www.nemadehometutors.in/",
+"name": "",
+"category": "Home Tuition Bureau",
+"city": "Nashik",
+"country": "India",
+"src": "serp"
+},
+{
+"url": "https://www.hometutorsite.com/",
+"name": "",
+"category": "Home Tuition Bureau",
+"city": "Nashik",
+"country": "India",
+"src": "serp"
+},
+{
+"url": "https://instituteofpracticalscience.com/",
+"name": "",
+"category": "Home Tuition Bureau",
+"city": "Nashik",
+"country": "India",
+"src": "serp"
+},
+{
+"url": "https://www.hometutiondelhi.com/",
+"name": "",
+"category": "Home Tuition Bureau",
+"city": "Nashik",
+"country": "India",
+"src": "serp"
+},
+{
+"url": "https://www.iitpulse.com/",
+"name": "",
+"category": "JEE/NEET Coaching",
+"city": "Indore",
+"country": "India",
+"src": "serp"
+},
+{
+"url": "https://mgci.co.in/",
+"name": "",
+"category": "JEE/NEET Coaching",
+"city": "Indore",
+"country": "India",
+"src": "serp"
+},
+{
+"url": "https://kalpavrikshainstitute.com/",
+"name": "",
+"category": "JEE/NEET Coaching",
+"city": "Indore",
+"country": "India",
+"src": "serp"
+},
+{
+"url": "https://www.catalyser.in/",
+"name": "",
+"category": "JEE/NEET Coaching",
+"city": "Indore",
+"country": "India",
+"src": "serp"
+},
+{
+"url": "https://www.aayamcareerinstitute.com/",
+"name": "",
+"category": "JEE/NEET Coaching",
+"city": "Indore",
+"country": "India",
+"src": "serp"
+},
+{
+"url": "https://www.medimath.in/",
+"name": "",
+"category": "JEE/NEET Coaching",
+"city": "Indore",
+"country": "India",
+"src": "serp"
+},
+{
+"url": "https://www.ramanujanacademy.org/",
+"name": "",
+"category": "JEE/NEET Coaching",
+"city": "Indore",
+"country": "India",
+"src": "serp"
+},
+{
+"url": "https://www.click.in/",
+"name": "",
+"category": "Abacus & Vedic Maths",
+"city": "Kochi",
+"country": "India",
+"src": "serp"
+},
+{
+"url": "https://www.theintellibrain.com/",
+"name": "",
+"category": "Abacus & Vedic Maths",
+"city": "Kochi",
+"country": "India",
+"src": "serp"
+},
+{
+"url": "https://delightedchamps.com/",
+"name": "",
+"category": "Abacus & Vedic Maths",
+"city": "Kochi",
+"country": "India",
+"src": "serp"
+},
+{
+"url": "https://vedicmathschool.org/",
+"name": "",
+"category": "Abacus & Vedic Maths",
+"city": "Kochi",
+"country": "India",
+"src": "serp"
+},
+{
+"url": "https://thevedicmaths.com/",
+"name": "",
+"category": "Abacus & Vedic Maths",
+"city": "Kochi",
+"country": "India",
+"src": "serp"
+},
+{
+"url": "https://vedicmathsindia.org/",
+"name": "",
+"category": "Abacus & Vedic Maths",
+"city": "Kochi",
+"country": "India",
+"src": "serp"
+}
+]
